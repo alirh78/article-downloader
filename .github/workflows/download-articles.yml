@@ -1,71 +1,69 @@
 name: Download Pages & Extract Article Links
 
-# ✅ ADD THIS SECTION - GIVES PERMISSION TO PUSH
 permissions:
   contents: write
 
 on:
-  workflow_dispatch:  # Manual trigger - you click "Run workflow"
+  workflow_dispatch:
 
 jobs:
   download-and-extract:
     runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Get your repository
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      # Step 2: Setup Python for parsing
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
-      # Step 3: Install Python libraries
       - name: Install Python dependencies
         run: |
-          pip install beautifulsoup4 requests urllib3
+          pip install beautifulsoup4 requests urllib3 selenium webdriver-manager
+          sudo apt-get update
+          sudo apt-get install -y wget curl unzip
       
-      # Step 4: Create folders
-      - name: Create folders
-        run: |
-          mkdir -p downloaded-pages
-          mkdir -p extracted-links
-          mkdir -p pdfs
-      
-      # Step 5: Download complete web pages with wget
+      # Step 5: Download web pages with proper browser headers
       - name: Download web pages with all assets
         run: |
           # ============================================
-          # 🔽 EDIT THESE URLS - Add the pages you want to download
+          # 🔽 YOUR URLs
           # ============================================
           
           urls=(
-            "https://www.sciencedirect.com/science/article/pii/S0022395624004928",
-            "https://www.mdpi.com/2313-7673/8/6/475",
-            "https://www.sciencedirect.com/science/article/pii/S2949903824000010",
-            "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262527",
-            "https://ieeexplore.ieee.org/abstract/document/8417207/",
-            "https://academic.oup.com/acn/article-abstract/34/2/222/4951483",
+            "https://www.sciencedirect.com/science/article/pii/S0022395624004928"
+            "https://www.mdpi.com/2313-7673/8/6/475"
+            "https://www.sciencedirect.com/science/article/pii/S2949903824000010"
+            "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262527"
+            "https://ieeexplore.ieee.org/abstract/document/8417207/"
+            "https://academic.oup.com/acn/article-abstract/34/2/222/4951483"
             "https://ieeexplore.ieee.org/abstract/document/10969487/"
           )
           
-          # ============================================
-          # Download each URL (don't change below here)
-          # ============================================
+          # Create a user-agent that looks like a real browser
+          USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           
           for url in "${urls[@]}"; do
-            # Create a safe folder name from the URL
-            folder_name=$(echo "$url" | sed 's|https\?://||' | sed 's|/|_|g' | sed 's/[^a-zA-Z0-9_-]/_/g')
+            # Create a safe folder name
+            folder_name=$(echo "$url" | sed 's|https\?://||' | sed 's|/|_|g' | sed 's/[^a-zA-Z0-9_-]/_/g' | cut -c1-100)
             
             echo "========================================="
             echo "Downloading: $url"
             echo "Saving to: downloaded-pages/$folder_name/"
             echo "========================================="
             
-            # Download the complete page with all assets
+            mkdir -p "downloaded-pages/$folder_name"
+            
+            # Try with wget and browser headers
             wget \
+              --user-agent="$USER_AGENT" \
+              --header="Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" \
+              --header="Accept-Language: en-US,en;q=0.5" \
+              --header="Accept-Encoding: gzip, deflate, br" \
+              --header="Connection: keep-alive" \
+              --header="Upgrade-Insecure-Requests: 1" \
               --recursive \
               --level=1 \
               --page-requisites \
@@ -75,15 +73,46 @@ jobs:
               --no-directories \
               --directory-prefix="downloaded-pages/$folder_name" \
               --no-host-directories \
+              --timeout=30 \
+              --tries=3 \
+              --retry-connrefused \
               "$url" 2>&1 | tee -a wget-log.txt
+            
+            # Check if download was successful
+            if [ -f "downloaded-pages/$folder_name/index.html" ] || [ -f "downloaded-pages/$folder_name/*.html" ]; then
+              echo "✅ Successfully downloaded: $url"
+            else
+              echo "⚠️ Wget may have failed, trying with curl as fallback..."
+              
+              # Fallback to curl with browser headers
+              curl -L \
+                -H "User-Agent: $USER_AGENT" \
+                -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" \
+                -H "Accept-Language: en-US,en;q=0.5" \
+                --max-time 60 \
+                --retry 3 \
+                -o "downloaded-pages/$folder_name/page.html" \
+                "$url"
+              
+              if [ -f "downloaded-pages/$folder_name/page.html" ]; then
+                echo "✅ Curl fallback succeeded for: $url"
+              else
+                echo "❌ Both wget and curl failed for: $url"
+              fi
+            fi
             
             echo "Finished: $url"
             echo ""
           done
           
           echo "✅ All pages downloaded!"
+          
+          # List what we actually downloaded
+          echo ""
+          echo "Downloaded files:"
+          find downloaded-pages/ -type f -name "*.html" | head -20
       
-      # Step 6: Extract and find article links using Python
+      # Step 6: Enhanced Python extraction with better link detection
       - name: Extract article links with Python
         run: |
           python3 << 'PYTHON_SCRIPT'
@@ -108,15 +137,31 @@ jobs:
           print("🔍 Scanning downloaded pages for links...")
           print("-" * 50)
           
-          for html_file in pages_dir.rglob('*.html'):
+          html_files = list(pages_dir.rglob('*.html'))
+          print(f"Found {len(html_files)} HTML files to analyze")
+          
+          if len(html_files) == 0:
+              print("⚠️ WARNING: No HTML files found! Checking directory contents...")
+              print("Contents of downloaded-pages:")
+              for item in pages_dir.rglob('*'):
+                  print(f"  - {item}")
+          
+          for html_file in html_files:
               print(f"📄 Analyzing: {html_file}")
               
               try:
                   with open(html_file, 'r', encoding='utf-8', errors='ignore') as f:
                       content = f.read()
+                      
+                      # Check if the page is an error page
+                      if "access denied" in content.lower() or "blocked" in content.lower() or "captcha" in content.lower():
+                          print(f"  ⚠️  This page appears to be blocked: {html_file}")
+                          continue
+                      
                       soup = BeautifulSoup(content, 'html.parser')
                       
                       # Find all links
+                      links_found = 0
                       for link in soup.find_all('a', href=True):
                           href = link.get('href')
                           text = link.get_text(strip=True)
@@ -125,48 +170,62 @@ jobs:
                           if not href or href.startswith('#') or href.startswith('javascript:'):
                               continue
                           
+                          # Convert relative URLs to absolute
+                          if not href.startswith('http'):
+                              href = urljoin(str(html_file.parent), href)
+                          
                           # Store the link info
                           link_info = {
                               'source_file': str(html_file),
                               'url': href,
-                              'text': text[:100]  # Limit text length
+                              'text': text[:100]
                           }
                           all_links.append(link_info)
+                          links_found += 1
                           
                           # Check for PDFs
                           if '.pdf' in href.lower():
                               pdf_links.append(link_info)
                               print(f"  📑 Found PDF: {href}")
                           
-                          # Check for article patterns
+                          # Check for article patterns (expanded for academic sites)
                           article_patterns = [
                               'article', 'post', 'news', 'story', 'content', 
-                              'entry', 'blog', '2024', '2025', '2026'
+                              'entry', 'blog', 'doi', 'abstract', 'fulltext',
+                              'pdf', 'download', 'epub', 'science/article',
+                              'pii/', 'mdpi/', 'plos', 'ieee', 'oup'
                           ]
                           if any(pattern in href.lower() for pattern in article_patterns):
-                              article_links.append(link_info)
-                              print(f"  📰 Found article: {href[:80]}...")
+                              # Avoid duplicates
+                              if link_info not in article_links:
+                                  article_links.append(link_info)
+                                  if links_found < 50:  # Only print first 50
+                                      print(f"  📰 Found: {href[:80]}...")
                           
                           # Check for download patterns
-                          if any(ext in href.lower() for ext in ['.zip', '.rar', '.doc', '.docx', '.epub', '.mobi']):
-                              download_links.append(link_info)
-                              print(f"  ⬇️  Found download: {href}")
+                          if any(ext in href.lower() for ext in ['.zip', '.rar', '.doc', '.docx', '.epub', '.mobi', '.pdf']):
+                              if link_info not in download_links:
+                                  download_links.append(link_info)
+                      
+                      print(f"  Found {links_found} links in this page")
                               
               except Exception as e:
                   print(f"  ⚠️  Error reading {html_file}: {e}")
           
           print("-" * 50)
           print(f"✅ Scan complete!")
+          print(f"   Total HTML files analyzed: {len(html_files)}")
           print(f"   Total links found: {len(all_links)}")
           print(f"   PDF files: {len(pdf_links)}")
           print(f"   Article links: {len(article_links)}")
           print(f"   Download links: {len(download_links)}")
           
           # Save results to files
+          timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
           
           # 1. All links
           with open(output_dir / 'all_links.txt', 'w', encoding='utf-8') as f:
-              f.write(f"ALL LINKS FOUND - {datetime.now()}\n")
+              f.write(f"ALL LINKS FOUND - {timestamp}\n")
               f.write("=" * 70 + "\n\n")
               for link in all_links:
                   f.write(f"Source: {link['source_file']}\n")
@@ -176,7 +235,7 @@ jobs:
           
           # 2. PDF links only
           with open(output_dir / 'pdf_links.txt', 'w', encoding='utf-8') as f:
-              f.write(f"PDF FILES FOUND - {datetime.now()}\n")
+              f.write(f"PDF FILES FOUND - {timestamp}\n")
               f.write("=" * 70 + "\n\n")
               for link in pdf_links:
                   f.write(f"Source: {link['source_file']}\n")
@@ -186,7 +245,7 @@ jobs:
           
           # 3. Article links only
           with open(output_dir / 'article_links.txt', 'w', encoding='utf-8') as f:
-              f.write(f"ARTICLE LINKS FOUND - {datetime.now()}\n")
+              f.write(f"ARTICLE LINKS FOUND - {timestamp}\n")
               f.write("=" * 70 + "\n\n")
               for link in article_links:
                   f.write(f"Source: {link['source_file']}\n")
@@ -194,31 +253,30 @@ jobs:
                   f.write(f"Title/Text: {link['text']}\n")
                   f.write("-" * 50 + "\n")
           
-          # 4. Download links (ZIP, DOC, etc.)
-          with open(output_dir / 'download_links.txt', 'w', encoding='utf-8') as f:
-              f.write(f"DOWNLOADABLE FILES FOUND - {datetime.now()}\n")
-              f.write("=" * 70 + "\n\n")
-              for link in download_links:
-                  f.write(f"Source: {link['source_file']}\n")
-                  f.write(f"File URL: {link['url']}\n")
-                  f.write(f"Link text: {link['text']}\n")
-                  f.write("-" * 50 + "\n")
-          
-          # 5. Summary report (easy to read)
+          # 4. Summary report
           with open(output_dir / 'SUMMARY.txt', 'w', encoding='utf-8') as f:
               f.write("=" * 70 + "\n")
               f.write("DOWNLOAD SUMMARY REPORT\n")
-              f.write(f"Generated: {datetime.now()}\n")
+              f.write(f"Generated: {timestamp}\n")
               f.write("=" * 70 + "\n\n")
               f.write(f"📊 STATISTICS:\n")
+              f.write(f"   • HTML files analyzed: {len(html_files)}\n")
               f.write(f"   • Total links found: {len(all_links)}\n")
               f.write(f"   • PDF documents: {len(pdf_links)}\n")
-              f.write(f"   • Article pages: {len(article_links)}\n")
+              f.write(f"   • Article links: {len(article_links)}\n")
               f.write(f"   • Other downloads: {len(download_links)}\n\n")
+              
+              if len(html_files) == 0:
+                  f.write("⚠️ WARNING: No HTML files were downloaded!\n")
+                  f.write("This usually means the websites are blocking automated access.\n")
+                  f.write("Try:\n")
+                  f.write("1. Checking if the URLs are accessible in a regular browser\n")
+                  f.write("2. Adding cookies or authentication tokens\n")
+                  f.write("3. Using a different approach (some academic sites require login)\n\n")
               
               if pdf_links:
                   f.write("📑 PDF FILES:\n")
-                  for i, link in enumerate(pdf_links[:10], 1):  # Show first 10
+                  for i, link in enumerate(pdf_links[:10], 1):
                       f.write(f"   {i}. {link['url']}\n")
                   if len(pdf_links) > 10:
                       f.write(f"   ... and {len(pdf_links) - 10} more\n")
@@ -233,193 +291,24 @@ jobs:
           
           print("\n✅ Reports saved to 'extracted-links/' folder:")
           print("   • all_links.txt - Every link found")
-          print("   • pdf_links.txt - Only PDF files")
-          print("   • article_links.txt - Only article URLs")
-          print("   • download_links.txt - ZIP, DOC, etc.")
+          print("   • article_links.txt - Article URLs only")
+          print("   • pdf_links.txt - PDF files")
           print("   • SUMMARY.txt - Quick overview")
           
           PYTHON_SCRIPT
       
-      # Step 7: Try to download any PDFs found (optional)
-      - name: Download discovered PDFs
-        run: |
-          python3 << 'PYTHON_SCRIPT'
-          import requests
-          from pathlib import Path
-          from urllib.parse import urljoin, urlparse
-          
-          pdf_list_file = Path('extracted-links/pdf_links.txt')
-          pdf_download_dir = Path('pdfs')
-          pdf_download_dir.mkdir(exist_ok=True)
-          
-          if not pdf_list_file.exists():
-              print("No PDF links file found")
-              exit(0)
-          
-          # Extract PDF URLs from the text file
-          pdf_urls = []
-          with open(pdf_list_file, 'r') as f:
-              for line in f:
-                  if line.startswith('PDF URL:'):
-                      url = line.replace('PDF URL:', '').strip()
-                      if url:
-                          pdf_urls.append(url)
-          
-          print(f"📥 Attempting to download {len(pdf_urls)} PDFs...")
-          
-          for i, pdf_url in enumerate(pdf_urls[:5], 1):  # Limit to first 5 PDFs
-              try:
-                  # Create filename from URL
-                  filename = pdf_url.split('/')[-1]
-                  if not filename.endswith('.pdf'):
-                      filename = f"document_{i}.pdf"
-                  
-                  filepath = pdf_download_dir / filename
-                  
-                  print(f"   Downloading {i}/{len(pdf_urls[:5])}: {filename}")
-                  response = requests.get(pdf_url, timeout=30, headers={'User-Agent': 'Mozilla/5.0'})
-                  
-                  if response.status_code == 200:
-                      with open(filepath, 'wb') as f:
-                          f.write(response.content)
-                      print(f"   ✅ Saved: {filename}")
-                  else:
-                      print(f"   ⚠️  Failed: HTTP {response.status_code}")
-              except Exception as e:
-                  print(f"   ❌ Error: {e}")
-          
-          print("✅ PDF download attempt complete!")
-          PYTHON_SCRIPT
-      
-      # Step 8: Create an HTML report (easy to view in browser)
-      - name: Create HTML report
-        run: |
-          cat > extracted-links/report.html << 'EOF'
-          <!DOCTYPE html>
-          <html>
-          <head>
-              <title>Downloaded Articles Report</title>
-              <style>
-                  body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; }
-                  .container { max-width: 1200px; margin: 0 auto; background: white; padding: 20px; border-radius: 10px; }
-                  h1 { color: #333; }
-                  h2 { color: #666; border-bottom: 2px solid #ddd; padding-bottom: 10px; }
-                  .section { margin: 30px 0; }
-                  .link-item { margin: 10px 0; padding: 10px; background: #f9f9f9; border-left: 4px solid #007bff; }
-                  .pdf { border-left-color: #dc3545; }
-                  .article { border-left-color: #28a745; }
-                  .url { word-break: break-all; font-family: monospace; }
-                  .source { font-size: 12px; color: #999; margin-top: 5px; }
-                  .stats { display: flex; gap: 20px; margin: 20px 0; }
-                  .stat-box { background: #007bff; color: white; padding: 15px; border-radius: 8px; text-align: center; flex: 1; }
-                  .stat-number { font-size: 32px; font-weight: bold; }
-                  .stat-label { font-size: 14px; }
-              </style>
-          </head>
-          <body>
-              <div class="container">
-                  <h1>📥 Downloaded Pages & Extracted Links</h1>
-                  <p>Report generated by GitHub Action</p>
-                  
-                  <div class="stats" id="stats"></div>
-                  
-                  <div class="section">
-                      <h2>📑 PDF Documents</h2>
-                      <div id="pdf-links"></div>
-                  </div>
-                  
-                  <div class="section">
-                      <h2>📰 Article Links</h2>
-                      <div id="article-links"></div>
-                  </div>
-                  
-                  <div class="section">
-                      <h2>⬇️ Downloadable Files</h2>
-                      <div id="download-links"></div>
-                  </div>
-              </div>
-              
-              <script>
-                  // Load the text files and display them
-                  async function loadLinks() {
-                      try {
-                          const pdfRes = await fetch('pdf_links.txt');
-                          const pdfText = await pdfRes.text();
-                          displayLinks(pdfText, 'pdf-links', 'pdf');
-                          
-                          const articleRes = await fetch('article_links.txt');
-                          const articleText = await articleRes.text();
-                          displayLinks(articleText, 'article-links', 'article');
-                          
-                          const downloadRes = await fetch('download_links.txt');
-                          const downloadText = await downloadRes.text();
-                          displayLinks(downloadText, 'download-links', 'download');
-                          
-                          // Update stats
-                          document.getElementById('stats').innerHTML = `
-                              <div class="stat-box"><div class="stat-number">${(pdfText.match(/PDF URL:/g) || []).length}</div><div class="stat-label">PDF Files</div></div>
-                              <div class="stat-box"><div class="stat-number">${(articleText.match(/Article URL:/g) || []).length}</div><div class="stat-label">Article Links</div></div>
-                              <div class="stat-box"><div class="stat-number">${(downloadText.match(/File URL:/g) || []).length}</div><div class="stat-label">Downloads</div></div>
-                          `;
-                      } catch(e) {
-                          console.error('Error loading links:', e);
-                      }
-                  }
-                  
-                  function displayLinks(text, containerId, type) {
-                      const container = document.getElementById(containerId);
-                      const lines = text.split('\n');
-                      let currentItem = null;
-                      let html = '';
-                      
-                      for (let line of lines) {
-                          if (line.startsWith('PDF URL:') || line.startsWith('Article URL:') || line.startsWith('File URL:')) {
-                              if (currentItem) html += renderItem(currentItem, type);
-                              currentItem = { url: line.split(':')[1].trim(), source: '', text: '' };
-                          } else if (line.startsWith('Source:')) {
-                              if (currentItem) currentItem.source = line.split(':')[1].trim();
-                          } else if (line.startsWith('Link text:') || line.startsWith('Title/Text:')) {
-                              if (currentItem) currentItem.text = line.split(':')[1].trim();
-                          }
-                      }
-                      if (currentItem) html += renderItem(currentItem, type);
-                      
-                      container.innerHTML = html || '<p>No links found</p>';
-                  }
-                  
-                  function renderItem(item, type) {
-                      const typeClass = type === 'pdf' ? 'pdf' : (type === 'article' ? 'article' : '');
-                      return `
-                          <div class="link-item ${typeClass}">
-                              <div class="url"><a href="${item.url}" target="_blank">${item.url}</a></div>
-                              <div class="source">From: ${item.source}</div>
-                              ${item.text ? `<div class="source">Link text: ${item.text}</div>` : ''}
-                          </div>
-                      `;
-                  }
-                  
-                  loadLinks();
-              </script>
-          </body>
-          </html>
-          EOF
-          
-          echo "✅ HTML report created at extracted-links/report.html"
-      
-      # Step 9: Commit and save everything to GitHub
+      # Step 7: Commit and save everything
       - name: Commit and push all files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # ✅ ADD THIS - Set up authentication
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           
           git add downloaded-pages/
           git add extracted-links/
           git add pdfs/
           
-          # Check if there are changes before committing
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -427,36 +316,24 @@ jobs:
             git push
             echo "✅ Changes pushed successfully!"
           fi
-          
-          echo "✅ All files saved to GitHub!"
       
-      # Step 10: Show summary in action logs
+      # Step 8: Display summary
       - name: Display summary
         run: |
           echo "========================================="
-          echo "🎉 WORKFLOW COMPLETED SUCCESSFULLY!"
+          echo "🎉 WORKFLOW COMPLETED!"
           echo "========================================="
           echo ""
-          echo "📁 FOLDER STRUCTURE CREATED:"
-          echo "   • downloaded-pages/ - Complete web pages (HTML, CSS, JS, images)"
-          echo "   • extracted-links/ - All found links (PDFs, articles, downloads)"
-          echo "   • pdfs/ - Automatically downloaded PDF files"
+          echo "📊 RESULTS:"
+          echo "   Check extracted-links/SUMMARY.txt for details"
           echo ""
-          echo "📄 REPORTS AVAILABLE:"
-          echo "   • extracted-links/all_links.txt - Every link found"
-          echo "   • extracted-links/pdf_links.txt - Only PDF files"
-          echo "   • extracted-links/article_links.txt - Article URLs only"
-          echo "   • extracted-links/download_links.txt - Other downloads"
-          echo "   • extracted-links/SUMMARY.txt - Quick overview"
-          echo "   • extracted-links/report.html - Visual report (open in browser)"
+          echo "📁 FOLDERS CREATED:"
+          echo "   • downloaded-pages/ - Downloaded HTML files"
+          echo "   • extracted-links/ - Extracted links and reports"
           echo ""
-          echo "🔍 HOW TO VIEW RESULTS:"
-          echo "   1. Go to your GitHub repository"
-          echo "   2. Click on 'extracted-links' folder"
-          echo "   3. Click on 'report.html' to see a visual report"
-          echo "   4. Or download any .txt file to see all links"
-          echo ""
-          echo "📥 HOW TO DOWNLOAD FILES TO YOUR COMPUTER:"
-          echo "   • Click 'Code' → 'Download ZIP'"
-          echo "   • Or use git clone if you know Git"
-          echo ""
+          echo "⚠️ IMPORTANT NOTE ABOUT ACADEMIC SITES:"
+          echo "   Many academic publishers block automated downloads."
+          echo "   If no files were downloaded, you may need to:"
+          echo "   1. Access from a recognized IP (university network)"
+          echo "   2. Use institutional login cookies"
+          echo "   3. Try alternative URLs (abstract pages vs. full text)"
