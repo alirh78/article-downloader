@@ -1,4 +1,4 @@
-ALL LINKS FOUND - 2026-04-23 06:20:29.866714
+ALL LINKS FOUND - 2026-04-23 06:24:05.354929
 ======================================================================
 
 Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
@@ -938,6 +938,1530 @@ URL: https://support.springernature.com/en/support/solutions/articles/6000255911
 Text: Cancel contracts here
 --------------------------------------------------
 Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#main
+Text: Skip to main content
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/10549/article&sz=728x90&pos=top&articleid=s10549-025-07641-6
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10549-025-07641-6
+Text: Log in
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#eds-c-header-nav
+Text: Menu
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/journals/
+Text: Find a journal
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish with us
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springernature.com/home/
+Text: Track your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#eds-c-header-popup-search
+Text: Search
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/saved-research
+Text: Saved research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://order.springer.com/public/cart
+Text: Cart
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/
+Text: Home
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/journal/10549
+Text: Breast Cancer Research and Treatment
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#citeas
+Text: Cite this article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/article/10.1007/s10549-025-07641-6/save-research?_csrf=HTMNv6TGc3RiXlomwwcH6kH_F7hBJvgU
+Text: Save article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/saved-research
+Text: View saved research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/journal/10549
+Text: Breast Cancer Research and Treatment
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/journal/10549/aims-and-scope
+Text: Aims and scope
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://submission.springernature.com/new-submission/10549/3
+Text: Submit manuscript
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#auth-Xiaotong-Ding-Aff1
+Text: Xiaotong Ding
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://orcid.org/0000-0003-3388-903X
+Text: ORCID:orcid.org/0000-0003-3388-903X
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#na1
+Text: na1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#auth-Qing-Wang-Aff1-Aff2
+Text: Qing Wang
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff2
+Text: 2
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#na1
+Text: na1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#auth-Houming-Kan-Aff3
+Text: Houming Kan
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff3
+Text: 3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#auth-Fang-Zhao-Aff4
+Text: Fang Zhao
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#auth-Mingyue-Zhu-Aff1
+Text: Mingyue Zhu
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#auth-Hongli-Chen-Aff1
+Text: Hongli Chen
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#auth-Enfeng-Fu-Aff4
+Text: Enfeng Fu
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#auth-Zheng-Li-Aff1
+Text: Zheng Li
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: s10549-025-07641-6.html#Aff1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/article/10.1007/s10549-025-07641-6/metrics
+Text: Explore all metrics
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10549-025-07641-6
+Text: log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10549-025-07641-6
+Text: Log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/product/springer-plus
+Text: View plans
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/librarians/licensing/agc/journals
+Text: Institutional subscriptions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/10.1007/s00520-023-08282-5?fromPaywallRec=true
+Text: Biological and psychological predictors of cognitive function in breast cancer patients before surge
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/10.1186/s12888-024-06219-8?fromPaywallRec=true
+Text: Psychological resilience and post-traumatic stress disorder as chain mediators between personality t
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/10.1007/s12282-025-01697-4?fromPaywallRec=true
+Text: Relationship between psychological resilience and cognitive function on breast cancer chemotherapy p
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/subjects/cognition
+Text: Cognition
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/subjects/cognitive-neuroscience
+Text: Cognitive Neuroscience
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/subjects/mental-health
+Text: Mental Health
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/subjects/psychopharmacology
+Text: Psychopharmacology
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/subjects/psychological-assessment
+Text: Psychological Assessment
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/subjects/stress-and-resilience
+Text: Stress and resilience
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/subjects/psychosocial-care-in-cancer-survivorship
+Text: Psychosocial Care in Cancer Survivorship
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3322/caac.21708
+Text: https://doi.org/10.3322/caac.21708
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3322%2Fcaac.21708
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35020204
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Cancer%20statistics%2C%202022&journal=CA%20Cancer%20J%20Clin&doi=10.3322%2Fcaac.21708&volume=72&issue=1&pages=7-33&publication_year=2022&author=Siegel%2CRL&author=Miller%2CKD&author=Fuchs%2CHE&author=Jemal%2CA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1093/annonc/mdz410
+Text: https://doi.org/10.1093/annonc/mdz410
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1093%2Fannonc%2Fmdz410
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:STN:280:DC%2BB3MnotlKmug%3D%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31617564
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Cancer-related%20cognitive%20impairment%3A%20an%20update%20on%20state%20of%20the%20art%2C%20detection%2C%20and%20management%20strategies%20in%20cancer%20survivors&journal=Ann%20Oncol&doi=10.1093%2Fannonc%2Fmdz410&volume=30&issue=12&pages=1925-1940&publication_year=2019&author=Lange%2CM&author=Joly%2CF&author=Vardy%2CJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1007/s00520-020-05860-9
+Text: https://doi.org/10.1007/s00520-020-05860-9
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/doi/10.1007/s00520-020-05860-9
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33231809
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Cancer-related%20cognitive%20impairment%20in%20patients%20with%20non-central%20nervous%20system%20malignancies%3A%20an%20overview%20for%20oncology%20providers%20from%20the%20MASCC%20Neurological%20Complications%20Study%20Group&journal=Support%20Care%20Cancer&doi=10.1007%2Fs00520-020-05860-9&volume=29&issue=6&pages=2821-2840&publication_year=2021&author=Mayo%2CSJ&author=Lustberg%2CM&author=Dhillon%2CHM
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002/cam4.2069
+Text: https://doi.org/10.1002/cam4.2069
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002%2Fcam4.2069
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30884207
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6536919
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Cognitive%20complaints%20in%20cancer%20survivors%20and%20expectations%20for%20support%3A%20results%20from%20a%20web-based%20survey&journal=Cancer%20Med&doi=10.1002%2Fcam4.2069&volume=8&issue=5&pages=2654-2663&publication_year=2019&author=Lange%2CM&author=Licaj%2CI&author=Clarisse%2CB
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1007/s11764-009-0098-x
+Text: https://doi.org/10.1007/s11764-009-0098-x
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/doi/10.1007/s11764-009-0098-x
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Confronting%20chemobrain%3A%20an%20in-depth%20look%20at%20survivors%E2%80%99%20reports%20of%20impact%20on%20work%2C%20social%20networks%2C%20and%20health%20care%20response&journal=J%20Cancer%20Surv&doi=10.1007%2Fs11764-009-0098-x&volume=3&issue=4&pages=223-232&publication_year=2009&author=Boykoff%2CN&author=Moieni%2CM&author=Subramanian%2CSK
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1001/jama.2021.13309
+Text: https://doi.org/10.1001/jama.2021.13309
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1001%2Fjama.2021.13309
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34652424
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Cancer-related%20cognitive%20impairment%20in%20patients%20with%20a%20history%20of%20breast%20cancer&journal=JAMA&doi=10.1001%2Fjama.2021.13309&volume=326&issue=17&pages=1736-1737&publication_year=2021&author=Dyk%2CK&author=Ganz%2CPA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1634/theoncologist.2017-0187
+Text: https://doi.org/10.1634/theoncologist.2017-0187
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1634%2Ftheoncologist.2017-0187
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29212735
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Decision-making%20capacity%20for%20chemotherapy%20and%20associated%20factors%20in%20newly%20diagnosed%20patients%20with%20lung%20cancer&journal=Oncologist&doi=10.1634%2Ftheoncologist.2017-0187&volume=23&issue=4&pages=489-495&publication_year=2018&author=Ogawa%2CA&author=Kondo%2CK&author=Takei%2CH&author=Fujisawa%2CD&author=Ohe%2CY&author=Akechi%2CT
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.4143/crt.2017.201
+Text: https://doi.org/10.4143/crt.2017.201
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.4143%2Fcrt.2017.201
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28701031
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Patient%E2%80%99s%20cognitive%20function%20and%20attitudes%20towards%20family%20involvement%20in%20cancer%20treatment%20decision%20making%3A%20a%20patient-family%20caregiver%20dyadic%20analysis&journal=Cancer%20Res%20Treat&doi=10.4143%2Fcrt.2017.201&volume=50&issue=3&pages=681-690&publication_year=2018&author=Shin%2CDW&author=Cho%2CJ&author=Roter%2CDL
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1634/theoncologist.2016-0014
+Text: https://doi.org/10.1634/theoncologist.2016-0014
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1634%2Ftheoncologist.2016-0014
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXjt1Cntbo%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27473044
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5189619
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Decline%20in%20cognitive%20function%20in%20older%20adults%20with%20early-stage%20breast%20cancer%20after%20adjuvant%20treatment&journal=Oncologist&doi=10.1634%2Ftheoncologist.2016-0014&volume=21&issue=11&pages=1337-1348&publication_year=2016&author=Lange%2CM&author=Heutte%2CN&author=Rigal%2CO
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016/j.jgo.2020.12.006
+Text: https://doi.org/10.1016/j.jgo.2020.12.006
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016%2Fj.jgo.2020.12.006
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht12rt73O
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33353856
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Treatment%20choices%20for%20older%20women%20with%20primary%20operable%20breast%20cancer%20and%20cognitive%20impairment%3A%20results%20from%20a%20prospective%2C%20multicentre%20cohort%20study&journal=J%20Geriatr%20Oncol&doi=10.1016%2Fj.jgo.2020.12.006&volume=12&issue=5&pages=705-713&publication_year=2021&author=Martin%2CC&author=Shrestha%2CA&author=Morgan%2CJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002/pon.4928
+Text: https://doi.org/10.1002/pon.4928
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002%2Fpon.4928
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30353629
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Associations%20of%20functional%2C%20psychosocial%2C%20and%20medical%20factors%20with%20cognitive%20impairment%20in%20older%2C%20chemotherapy%20na%C3%AFve%20patients%20with%20early%20breast%20cancer&journal=Psychooncology&doi=10.1002%2Fpon.4928&volume=28&issue=1&pages=167-173&publication_year=2019&author=Nakamura%2CZM&author=Deal%2CAM&author=Nyrop%2CKA&author=Choi%2CSK&author=Wood%2CWA&author=Muss%2CHB
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1188/07.ONF.981-994
+Text: https://doi.org/10.1188/07.ONF.981-994
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1188%2F07.ONF.981-994
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17878127
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Chemotherapy-related%20change%20in%20cognitive%20function%3A%20a%20conceptual%20model&journal=Oncol%20Nurs%20Forum&doi=10.1188%2F07.ONF.981-994&volume=34&issue=5&pages=981-994&publication_year=2007&author=Hess%2CLM&author=Insel%2CKC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1007/s11764-020-00943-2
+Text: https://doi.org/10.1007/s11764-020-00943-2
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/doi/10.1007/s11764-020-00943-2
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Fear%20of%20cancer%20recurrence%20among%20young%20adult%20cancer%20survivors-exploring%20long-term%20contributing%20factors%20in%20a%20large%2C%20population-based%20cohort&journal=J%20Cancer%20Surv&doi=10.1007%2Fs11764-020-00943-2&volume=15&issue=4&pages=497-508&publication_year=2021&author=Vandraas%2CKF&author=Reinertsen%2CKV&author=Kiserud%2CCE&author=Lie%2CHC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002/pon.5013
+Text: https://doi.org/10.1002/pon.5013
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002%2Fpon.5013
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30703261
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Fear%20of%20cancer%20recurrence%20in%20adolescent%20and%20young%20adult%20cancer%20survivors%3A%20a%20systematic%20review%20of%20the%20literature&journal=Psycho-Oncology&doi=10.1002%2Fpon.5013&volume=28&issue=4&pages=675-686&publication_year=2019&author=Yang%2CY&author=Li%2CW&author=Wen%2CY
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3969/j.issn.1674-8115.2015.10.004
+Text: https://doi.org/10.3969/j.issn.1674-8115.2015.10.004
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3969%2Fj.issn.1674-8115.2015.10.004
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Reliability%20and%20validity%20of%20the%20Chinese%20version%20of%20Perceived%20Stress%20Scale&journal=J%20Shanghai%20Jiao%20Tong%20Univ%20Med%20Sci&doi=10.3969%2Fj.issn.1674-8115.2015.10.004&volume=35&issue=10&publication_year=2015&author=Wang%2CZ&author=Wang%2CY&author=Wu%2CZG&author=Chen%2CDD&author=Chen%2CJ&author=Xiao%2CZP
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3969/j.issn.1000-6729.2021.09.003
+Text: https://doi.org/10.3969/j.issn.1000-6729.2021.09.003
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3969%2Fj.issn.1000-6729.2021.09.003
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Relationship%20among%20cognitive%20function%2C%20perceived%20stress%20and%20emotion%20regulation%20strategies%20in%20breast%20cancer%20patients&journal=Chin%20Ment%20Health%20J&doi=10.3969%2Fj.issn.1000-6729.2021.09.003&volume=35&issue=9&pages=715-719&publication_year=2021&author=Bai%2CHY&author=Zhu%2CSY&author=Liang%2CWW
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:STN:280:DyaL2c7js12iug%3D%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=6668417
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20global%20measure%20of%20perceived%20stress&journal=J%20Health%20Soc%20Behav&volume=24&issue=4&pages=385-396&publication_year=1983&author=Cohen%2CS&author=Kamarck%2CT&author=Mermelstein%2CR
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.12102/j.issn.1009-6493.2020.09.027
+Text: https://doi.org/10.12102/j.issn.1009-6493.2020.09.027
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.12102%2Fj.issn.1009-6493.2020.09.027
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Correlation%20study%20on%20cognitive%20impairment%20and%20perceived%20stress%20in%20breast%20cancer%20patients%20undergoing%20chemotherapy&journal=Chin%20Nurs%20Res&doi=10.12102%2Fj.issn.1009-6493.2020.09.027&volume=34&issue=9&pages=1618-1621&publication_year=2020&author=Gao%2CWX&author=Sun%2CYQ&author=Yang%2CF
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3892/ol.2019.10361
+Text: https://doi.org/10.3892/ol.2019.10361
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3892%2Fol.2019.10361
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXisVWgsrzM
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31289522
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6540331
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Role%20of%20stress%2C%20age%20and%20adjuvant%20therapy%20in%20the%20cognitive%20function%20of%20patients%20with%20breast%20cancer&journal=Oncol%20Lett&doi=10.3892%2Fol.2019.10361&volume=18&issue=1&pages=507-517&publication_year=2019&author=Papanastasiou%2CA&author=Seliniotaki%2CT&author=Rizos%2CE
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Stress%2C%20appraisal%2C%20and%20coping&publication_year=1984&author=Lazarus%2CRS&author=Folkman%2CS
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1159/000452902
+Text: https://doi.org/10.1159/000452902
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1159%2F000452902
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsl2qur7M
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28245448
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Immune-neuro-endocrine%20reflexes%2C%20circuits%2C%20and%20networks%3A%20physiologic%20and%20evolutionary%20implications&journal=Front%20Horm%20Res&doi=10.1159%2F000452902&volume=48&pages=1-18&publication_year=2017&author=Rey%2CA&author=Besedovsky%2CHO
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.4155/fso.15.21
+Text: https://doi.org/10.4155/fso.15.21
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.4155%2Ffso.15.21
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28031896
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137920
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=The%20effects%20of%20chronic%20stress%20on%20health%3A%20new%20insights%20into%20the%20molecular%20mechanisms%20of%20brain-body%20communication&journal=Future%20Sci%20OA&doi=10.4155%2Ffso.15.21&volume=1&issue=3&publication_year=2015&author=Mariotti%2CA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1038/nrn849
+Text: https://doi.org/10.1038/nrn849
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1038%2Fnrn849
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BD38Xkt1GlsLo%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12042880
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=The%20stressed%20hippocampus%2C%20synaptic%20plasticity%20and%20lost%20memories&journal=Nat%20Rev%20Neurosci&doi=10.1038%2Fnrn849&volume=3&issue=6&pages=453-462&publication_year=2002&author=Kim%2CJJ&author=Diamond%2CDM
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016/j.jagp.2018.05.004
+Text: https://doi.org/10.1016/j.jagp.2018.05.004
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016%2Fj.jagp.2018.05.004
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30017239
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6108924
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Perceived%20stress%20is%20associated%20with%20accelerated%20monocyte%2Fmacrophage%20aging%20trajectories%20in%20clinically%20normal%20adults&journal=Am%20J%20Geriatr%20Psychiatry&doi=10.1016%2Fj.jagp.2018.05.004&volume=26&issue=9&pages=952-963&publication_year=2018&author=Casaletto%2CKB&author=Staffaroni%2CAM&author=Elahi%2CF
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1111/psyg.12218
+Text: https://doi.org/10.1111/psyg.12218
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1111%2Fpsyg.12218
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28130814
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Serum%20tumour%20necrosis%20factor-%CE%B1%20and%20interleukin-6%20levels%20in%20Alzheimer%E2%80%99s%20disease%20and%20mild%20cognitive%20impairment&journal=Psychogeriatrics&doi=10.1111%2Fpsyg.12218&volume=17&issue=4&pages=224-230&publication_year=2017&author=Kim%2CYS&author=Lee%2CKJ&author=Kim%2CH
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.7860/JCDR/2017/24388.9764
+Text: https://doi.org/10.7860/JCDR/2017/24388.9764
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.7860%2FJCDR%2F2017%2F24388.9764
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhslSqsLvN
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28658752
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5483654
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Relationship%20between%20neutrophil-%20to-lymphocyte%20ratio%20and%20stress%20in%20multiple%20sclerosis%20patients&journal=J%20Clin%20Diagn%20Res&doi=10.7860%2FJCDR%2F2017%2F24388.9764&volume=11&issue=5&pages=CC01-CC04&publication_year=2017&author=Al-Hussain%2CF&author=Alfallaj%2CMM&author=Alahmari%2CAN
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3390/ijms23073636
+Text: https://doi.org/10.3390/ijms23073636
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3390%2Fijms23073636
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhtVajsL7I
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35408994
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8998851
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Neutrophil%20to%20lymphocyte%20ratio%3A%20an%20emerging%20marker%20of%20the%20relationships%20between%20the%20immune%20system%20and%20diseases&journal=Int%20J%20Mol%20Sci&doi=10.3390%2Fijms23073636&volume=23&issue=7&publication_year=2022&author=Buonacera%2CA&author=Stancanelli%2CB&author=Colaci%2CM&author=Malatino%2CL
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1186/s12888-022-04277-4
+Text: https://doi.org/10.1186/s12888-022-04277-4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/doi/10.1186/s12888-022-04277-4
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36210450
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9548421
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=An%20explanatory%20model%20of%20depressive%20symptoms%20from%20anxiety%2C%20post-traumatic%20stress%2C%20somatic%20symptoms%2C%20and%20symptom%20perception%3A%20the%20potential%20role%20of%20inflammatory%20markers%20in%20hospitalized%20COVID-19%20patients&journal=BMC%20Psychiatry&doi=10.1186%2Fs12888-022-04277-4&volume=22&issue=1&publication_year=2022&author=Villarreal-Zegarra%2CD&author=Paredes-Angeles%2CR&author=Mayo-Puchoc%2CN&author=Vilela-Estada%2CAL&author=Copez-Lonzoy%2CA&author=Huarcaya-Victoria%2CJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.4149/BLL2021078
+Text: https://doi.org/10.4149/BLL2021078
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.4149%2FBLL2021078
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:STN:280:DC%2BB2c3hsFGgtQ%3D%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34161115
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Neutrophil-to-lymphocyte%20ratio%2C%20past%2C%20present%20and%20future%20perspectives&journal=Bratisl%20Lek%20Listy&doi=10.4149%2FBLL2021078&volume=122&issue=7&pages=474-488&publication_year=2021&author=Zahorec%2CR
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1136/bmjopen-2017-017858
+Text: https://doi.org/10.1136/bmjopen-2017-017858
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1136%2Fbmjopen-2017-017858
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29903782
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6009510
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Road%20to%20resilience%3A%20a%20systematic%20review%20and%20meta-analysis%20of%20resilience%20training%20programmes%20and%20interventions&journal=BMJ%20Open&doi=10.1136%2Fbmjopen-2017-017858&volume=8&issue=6&publication_year=2018&author=Joyce%2CS&author=Shand%2CF&author=Tighe%2CJ&author=Laurent%2CSJ&author=Bryant%2CRA&author=Harvey%2CSB
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016/j.bbi.2018.08.010
+Text: https://doi.org/10.1016/j.bbi.2018.08.010
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016%2Fj.bbi.2018.08.010
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30102966
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6545920
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Resilience%20and%20immunity&journal=Brain%20Behav%20Immun&doi=10.1016%2Fj.bbi.2018.08.010&volume=74&pages=28-42&publication_year=2018&author=Dantzer%2CR&author=Cohen%2CS&author=Russo%2CSJ&author=Dinan%2CTG
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1111/ene.14910
+Text: https://doi.org/10.1111/ene.14910
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1111%2Fene.14910
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33977580
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Associations%20of%20cognitive%20reserve%20and%20psychological%20resilience%20with%20cognitive%20functioning%20in%20subjects%20with%20cerebral%20white%20matter%20hyperintensities&journal=Eur%20J%20Neurol&doi=10.1111%2Fene.14910&volume=28&issue=8&pages=2622-2630&publication_year=2021&author=Arola%2CA&author=Laakso%2CHM&author=Pitk%C3%A4nen%2CJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3390/ijerph18168841
+Text: https://doi.org/10.3390/ijerph18168841
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3390%2Fijerph18168841
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34444589
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8394548
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Social%20support%20and%20cognitive%20impairment%3A%20results%20from%20a%20portuguese%204-year%20prospective%20study&journal=Int%20J%20Environ%20Res%20Public%20Health&doi=10.3390%2Fijerph18168841&volume=18&issue=16&publication_year=2021&author=Pais%2CR&author=Ruano%2CL&author=Moreira%2CC&author=Fraga%2CS&author=Carvalho%2COP&author=Barros%2CH
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.13342/j.cnki.cjhp.2021.02.003
+Text: https://doi.org/10.13342/j.cnki.cjhp.2021.02.003
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.13342%2Fj.cnki.cjhp.2021.02.003
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33646827
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20social%20support%20on%20cognitive%20function%20of%20elderly%20people%20in%20the%20community&journal=China%20J%20Health%20Psychol&doi=10.13342%2Fj.cnki.cjhp.2021.02.003&publication_year=2021&author=Wu%2CY&author=Zhang%2CYP&author=Lv%2CY
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3969/j.issn.1005-9202.2020.23.040
+Text: https://doi.org/10.3969/j.issn.1005-9202.2020.23.040
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3969%2Fj.issn.1005-9202.2020.23.040
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20perceived%20stress%20and%20social%20support%20on%20the%20happiness%20of%20elderly%20people%20and%20the%20mediating%20role%20of%20hope&journal=Chin%20J%20Gerontol&doi=10.3969%2Fj.issn.1005-9202.2020.23.040&volume=40&issue=23&publication_year=2020&author=Fan%2CZG&author=Yuan%2CQM&author=Men%2CRX
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Structural%20equation%20modeling%3A%20operation%20and%20application%20of%20AMOS&publication_year=2010&author=Wu%2CML
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3760/cma.j.issn.1674-6554.2007.04.017
+Text: https://doi.org/10.3760/cma.j.issn.1674-6554.2007.04.017
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3760%2Fcma.j.issn.1674-6554.2007.04.017
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=An%20epidemiological%20study%20on%20stress%20among%20urban%20residents%20in%20social%20transition%20period&journal=Chin%20J%20Epidemiol&doi=10.3760%2Fcma.j.issn.1674-6554.2007.04.017&volume=24&issue=9&pages=11-15&publication_year=2003&author=Yang%2CTZ&author=Huang%2CHT
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002/da.10113
+Text: https://doi.org/10.1002/da.10113
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002%2Fda.10113
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12964174
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Development%20of%20a%20new%20resilience%20scale%3A%20the%20Connor-Davidson%20Resilience%20Scale%20%28CD-RISC%29&journal=Depress%20Anxiety&doi=10.1002%2Fda.10113&volume=18&issue=2&pages=76-82&publication_year=2003&author=Connor%2CKM&author=Davidson%2CJR
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3969/j.issn.1671-6981.2007.05.038
+Text: https://doi.org/10.3969/j.issn.1671-6981.2007.05.038
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3969%2Fj.issn.1671-6981.2007.05.038
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Comparison%20of%20the%20application%20of%20Self%20Resilience%20Scale%20and%20Connor%20Davidson%20Resilience%20Scale&journal=Psychol%20Sci&doi=10.3969%2Fj.issn.1671-6981.2007.05.038&volume=30&issue=5&publication_year=2007&author=Yu%2CXN&author=Zhang%2CJX
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Theoretical%20foundations%20and%20research%20applications%20of%20the%20Social%20Support%20Rating%20Scale&journal=J%20Clin%20Psychiatry&volume=4&issue=2&publication_year=1994&author=Xiao%2CSY
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Measuring%20patient%20self-reported%20cognitive%20function%3A%20development%20of%20the%20functional%20assessment%20of%20cancer%20therapy-cognitive%20function%20instrument&journal=J%20Support%20Oncol&volume=7&issue=6&pages=W32-W39&publication_year=2009&author=Wagner%2CLI&author=Sweet%2CJJ&author=Butt%2CZ&author=Lai%2CJS&author=Cella%2CD
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3760/cma.j.issn.1672-7088.2015.33.017
+Text: https://doi.org/10.3760/cma.j.issn.1672-7088.2015.33.017
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3760%2Fcma.j.issn.1672-7088.2015.33.017
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BC28XmtFWht78%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Reliability%20and%20validity%20of%20the%20Chinese%20version%20of%20the%20functional%20assessment%20of%20cancer%20therapy-cognitive%20function%20in%20Chinese%20women%20with%20breast%20cancer&journal=Chin%20J%20Prac%20Nurs&doi=10.3760%2Fcma.j.issn.1672-7088.2015.33.017&volume=31&issue=33&publication_year=2015&author=Li%2CJ&author=Gao%2CW&author=Sun%2CLM&author=Wang%2CAJ&author=Bu%2CYL&author=Cao%2CFL
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3760/j.issn:0578-1426.2007.05.031
+Text: https://doi.org/10.3760/j.issn:0578-1426.2007.05.031
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3760%2Fj.issn%3A0578-1426.2007.05.031
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Use%20of%20the%20Montreal%20Cognitive%20Assessment%20Scale%20in%20screening%20patients%20with%20mild%20cognitive%20impairment&journal=Chin%20J%20Intern%20Med&doi=10.3760%2Fj.issn%3A0578-1426.2007.05.031&volume=46&issue=5&publication_year=2007&author=Wang%2CW&author=Wang%2CLN
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1037/0021-9010.88.5.879
+Text: https://doi.org/10.1037/0021-9010.88.5.879
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1037%2F0021-9010.88.5.879
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14516251
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Common%20method%20biases%20in%20behavioral%20research%3A%20a%20critical%20review%20of%20the%20literature%20and%20recommended%20remedies&journal=J%20Appl%20Psychol&doi=10.1037%2F0021-9010.88.5.879&volume=88&issue=5&pages=879-903&publication_year=2003&author=Podsakoff%2CPM&author=MacKenzie%2CSB&author=Lee%2CJY&author=Podsakoff%2CNP
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1007/s11764-017-0661-9
+Text: https://doi.org/10.1007/s11764-017-0661-9
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/doi/10.1007/s11764-017-0661-9
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Modifiable%20correlates%20of%20perceived%20cognitive%20function%20in%20breast%20cancer%20survivors%20up%20to%2010%20years%20after%20chemotherapy%20completion&journal=J%20Cancer%20Surv&doi=10.1007%2Fs11764-017-0661-9&volume=12&issue=2&pages=224-233&publication_year=2018&author=Henneghan%2CA&author=Stuifbergen%2CA&author=Becker%2CH&author=Kesler%2CS&author=King%2CE
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1001/jamanetworkopen.2023.1860
+Text: https://doi.org/10.1001/jamanetworkopen.2023.1860
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1001%2Fjamanetworkopen.2023.1860
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36881411
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9993177
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Association%20of%20stress%20with%20cognitive%20function%20among%20older%20black%20and%20white%20US%20adults&journal=JAMA%20Netw%20Open&doi=10.1001%2Fjamanetworkopen.2023.1860&volume=6&issue=3&publication_year=2023&author=Kulshreshtha%2CA&author=Alonso%2CA&author=McClure%2CLA&author=Hajjar%2CI&author=Manly%2CJJ&author=Judd%2CS
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1200/JCO.2016.68.5826
+Text: https://doi.org/10.1200/JCO.2016.68.5826
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1200%2FJCO.2016.68.5826
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28029304
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Cognitive%20complaints%20in%20survivors%20of%20breast%20cancer%20after%20chemotherapy%20compared%20with%20age-matched%20controls%3A%20an%20analysis%20from%20a%20nationwide%2C%20multicenter%2C%20prospective%20longitudinal%20study&journal=J%20Clin%20Oncol&doi=10.1200%2FJCO.2016.68.5826&volume=35&issue=5&pages=506-514&publication_year=2017&author=Janelsins%2CMC&author=Heckler%2CCE&author=Peppone%2CLJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016/j.breast.2022.07.013
+Text: https://doi.org/10.1016/j.breast.2022.07.013
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016%2Fj.breast.2022.07.013
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35994867
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9418976
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Cognitive%20function%20is%20well%20preserved%20in%20a%20cohort%20of%20breast%20cancer%20survivors%3A%20roles%20of%20cognitive%20reserve%2C%20resilience%2C%20and%20general%20health&journal=Breast&doi=10.1016%2Fj.breast.2022.07.013&volume=65&pages=157-163&publication_year=2022&author=Liesto%2CS&author=Sipil%C3%A4%2CR&author=Hietanen%2CM&author=Kalso%2CE
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1007/s12035-020-01960-z
+Text: https://doi.org/10.1007/s12035-020-01960-z
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/doi/10.1007/s12035-020-01960-z
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtFKgtrrL
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32542593
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Loss%20of%20estrogen%20efficacy%20against%20hippocampus%20damage%20in%20long-term%20OVX%20mice%20is%20related%20to%20the%20reduction%20of%20hippocampus%20local%20estrogen%20production%20and%20estrogen%20receptor%20degradation&journal=Mol%20Neurobiol&doi=10.1007%2Fs12035-020-01960-z&volume=57&issue=8&pages=3540-3551&publication_year=2020&author=Ma%2CY&author=Liu%2CM&author=Yang%2CL
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3389/fpsyt.2019.00615
+Text: https://doi.org/10.3389/fpsyt.2019.00615
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.3389%2Ffpsyt.2019.00615
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31555158
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6726738
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Psychological%20resilience%20enhances%20the%20orbitofrontal%20network%20in%20the%20elderly%20with%20mild%20cognitive%20impairment&journal=Front%20Psychiatry&doi=10.3389%2Ffpsyt.2019.00615&volume=10&publication_year=2019&author=Son%2CSJ&author=Park%2CB&author=Choi%2CJW
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1007/s11357-021-00406-1
+Text: https://doi.org/10.1007/s11357-021-00406-1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/doi/10.1007/s11357-021-00406-1
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhsFait77M
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34184172
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238632
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Association%20between%20psychological%20resilience%20and%20cognitive%20function%20in%20older%20adults%3A%20effect%20modification%20by%20inflammatory%20status&journal=Geroscience&doi=10.1007%2Fs11357-021-00406-1&volume=43&issue=6&pages=2749-2760&publication_year=2021&author=Jung%2CSJ&author=Lee%2CGB&author=Nishimi%2CK&author=Chibnik%2CL&author=Koenen%2CKC&author=Kim%2CHC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1093/geronb/gbad131
+Text: https://doi.org/10.1093/geronb/gbad131
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1093%2Fgeronb%2Fgbad131
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Associations%20of%20perceived%20stress%20and%20psychological%20resilience%20with%20cognition%20and%20a%20modifiable%20dementia%20risk%20score%20in%20middle-aged%20adults&journal=J%20Gerontol%20B&doi=10.1093%2Fgeronb%2Fgbad131&volume=78&issue=12&pages=1992-2000&publication_year=2023&author=Franks%2CKH&author=Bransby%2CL&author=Cribb%2CL
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1001/jamanetworkopen.2021.21122
+Text: https://doi.org/10.1001/jamanetworkopen.2021.21122
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1001%2Fjamanetworkopen.2021.21122
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34398201
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369356
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Association%20of%20social%20support%20with%20brain%20volume%20and%20cognition&journal=JAMA%20Netw%20Open&doi=10.1001%2Fjamanetworkopen.2021.21122&volume=4&issue=8&publication_year=2021&author=Salinas%2CJ&author=O%E2%80%99Donnell%2CA&author=Kojis%2CDJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002/pon.4798
+Text: https://doi.org/10.1002/pon.4798
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1002%2Fpon.4798
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29905003
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=An%20investigation%20of%20the%20relationship%20between%20social%20support%20and%20coping%20with%20stress%20in%20women%20with%20breast%20cancer&journal=Psycho-Oncology&doi=10.1002%2Fpon.4798&volume=27&issue=9&pages=2214-2219&publication_year=2018&author=Ozdemir%2CD&author=Tas%2CAF
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016/j.psyneuen.2018.08.023
+Text: https://doi.org/10.1016/j.psyneuen.2018.08.023
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016%2Fj.psyneuen.2018.08.023
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhs1eksb7J
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Limbic%20response%20to%20stress%20linking%20life%20trauma%20and%20hypothalamus-pituitary-adrenal%20axis%20function&journal=Psychoneuro-endocrinology&doi=10.1016%2Fj.psyneuen.2018.08.023&volume=99&pages=38-46&publication_year=2019&author=Seo%2CD&author=Rabinowitz%2CAG&author=Douglas%2CRJ&author=Sinha%2CR
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1006/nlme.2002.4080
+Text: https://doi.org/10.1006/nlme.2002.4080
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1006%2Fnlme.2002.4080
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BD3sXht12mtg%3D%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12559837
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Stress%20and%20memory%3A%20opposing%20effects%20of%20glucocorticoids%20on%20memory%20consolidation%20and%20memory%20retrieval&journal=Neurobiol%20Learn%20Mem&doi=10.1006%2Fnlme.2002.4080&volume=78&issue=3&pages=578-595&publication_year=2002&author=Roozendaal%2CB
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1093/geronb/gbq094
+Text: https://doi.org/10.1093/geronb/gbq094
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1093%2Fgeronb%2Fgbq094
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Associations%20between%20cognitive%20function%20and%20naturally%20occurring%20daily%20cortisol%20during%20middle%20adulthood%3A%20timing%20is%20everything&journal=J%20Gerontol%20B&doi=10.1093%2Fgeronb%2Fgbq094&volume=66%20Suppl%201&issue=Suppl%201&pages=i71-i81&publication_year=2011&author=Stawski%2CRS&author=Almeida%2CDM&author=Lachman%2CME&author=Tun%2CPA&author=Rosnick%2CCB&author=Seeman%2CT
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1111/cod.14399
+Text: https://doi.org/10.1111/cod.14399
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1111%2Fcod.14399
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhslalt7vO
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37579769
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Salivary%20cortisol%20and%20perceived%20psychological%20stress%20in%20patients%20with%20chronic%20contact%20hand%20dermatitis&journal=Contact%20Dermatitis&doi=10.1111%2Fcod.14399&volume=89&issue=5&pages=393-395&publication_year=2023&author=Pondeljak%2CN&author=Lucija%2CT&author=Elvira%2CLM&author=Mirna%2C%C5%A0&author=Dalibor%2CK&author=Liborija%2CLM
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1111/jne.12675
+Text: https://doi.org/10.1111/jne.12675
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1111%2Fjne.12675
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXlsFKgt70%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30578574
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6519262
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Top-down%20and%20bottom-up%20control%20of%20stress-coping&journal=J%20Neuroendocrinol&doi=10.1111%2Fjne.12675&volume=31&issue=3&publication_year=2019&author=Kloet%2CER&author=Kloet%2CSF&author=Kloet%2CCS&author=Kloet%2CAD
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1038/nn.4086
+Text: https://doi.org/10.1038/nn.4086
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1038%2Fnn.4086
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhsFKgurjE
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26404710
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4933289
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Mechanisms%20of%20stress%20in%20the%20brain&journal=Nat%20Neurosci&doi=10.1038%2Fnn.4086&volume=18&issue=10&pages=1353-1363&publication_year=2015&author=McEwen%2CBS&author=Bowles%2CNP&author=Gray%2CJD
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016/j.pneurobio.2021.102127
+Text: https://doi.org/10.1016/j.pneurobio.2021.102127
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.1016%2Fj.pneurobio.2021.102127
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhvVWmt7Y%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34343631
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Brain%20preparedness%3A%20the%20proactive%20role%20of%20the%20cortisol%20awakening%20response%20in%20hippocampal-prefrontal%20functional%20interactions&journal=Prog%20Neurobiol&doi=10.1016%2Fj.pneurobio.2021.102127&volume=205&publication_year=2021&author=Xiong%2CB&author=Chen%2CC&author=Tian%2CY
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.16128/j.cnki.1005-3611.2019.01.006
+Text: https://doi.org/10.16128/j.cnki.1005-3611.2019.01.006
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://doi.org/10.16128%2Fj.cnki.1005-3611.2019.01.006
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: http://scholar.google.com/scholar_lookup?&title=Cortisol%20secretion%20relieves%20negative%20emotions%3A%20evidence%20and%20mechanism&journal=Chin%20J%20Clin%20Psychol&doi=10.16128%2Fj.cnki.1005-3611.2019.01.006&volume=27&issue=1&publication_year=2019&author=Meng%2CY&author=Chen%2CLR&author=Zhou%2CRL
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://citation-needed.springer.com/v2/references/10.1007/s10549-025-07641-6?format=refman&flavour=references
+Text: Download references
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Xiaotong%20Ding
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Xiaotong%20Ding
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Xiaotong%20Ding%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Qing%20Wang
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qing%20Wang
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Qing%20Wang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Houming%20Kan
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Houming%20Kan
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Houming%20Kan%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Fang%20Zhao
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Fang%20Zhao
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Fang%20Zhao%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Mingyue%20Zhu
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Mingyue%20Zhu
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Mingyue%20Zhu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Hongli%20Chen
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Hongli%20Chen
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Hongli%20Chen%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Enfeng%20Fu
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Enfeng%20Fu
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Enfeng%20Fu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Zheng%20Li
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zheng%20Li
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zheng%20Li%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: mailto:zhengli@pumc.edu.cn
+Text: Zheng Li
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://static-content.springer.com/esm/art%3A10.1007%2Fs10549-025-07641-6/MediaObjects/10549_2025_7641_MOESM1_ESM.docx
+Text: 10549_2025_7641_MOESM1_ESM.docx (download DOCX)
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://s100.copyright.com/AppDispatchServlet?title=The%20regulation%20mechanism%20of%20perceived%20stress%20on%20cognitive%20function%20of%20patients%20with%20breast%20cancer%20undergoing%20chemotherapy%3A%20a%20multiple%20mediation%20analysis&author=Xiaotong%20Ding%20et%20al&contentID=10.1007%2Fs10549-025-07641-6&copyright=The%20Author%28s%29%2C%20under%20exclusive%20licence%20to%20Springer%20Science%2BBusiness%20Media%2C%20LLC%2C%20part%20of%20Springer%20Nature&publication=0167-6806&publicationDate=2025-02-20&publisherName=SpringerNature&orderBeanReset=true
+Text: Reprints and permissions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://crossmark.crossref.org/dialog/?doi=10.1007/s10549-025-07641-6
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://citation-needed.springer.com/v2/references/10.1007/s10549-025-07641-6?format=refman&flavour=citation
+Text: Download citation
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?query=Perceived%20stress&facet-discipline="Medicine%20%26%20Public%20Health"
+Text: Perceived stress
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?query=Social%20support&facet-discipline="Medicine%20%26%20Public%20Health"
+Text: Social support
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?query=Resilience&facet-discipline="Medicine%20%26%20Public%20Health"
+Text: Resilience
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?query=Cognitive%20function&facet-discipline="Medicine%20%26%20Public%20Health"
+Text: Cognitive function
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?query=Cortisol&facet-discipline="Medicine%20%26%20Public%20Health"
+Text: Cortisol
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?query=Neutrophil%E2%80%93lymphocyte%20ratio&facet-discipline="Medicine%20%26%20Public%20Health"
+Text: Neutrophil–lymphocyte ratio
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?query=Mediation%20analysis&facet-discipline="Medicine%20%26%20Public%20Health"
+Text: Mediation analysis
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/search?query=Psycho-oncology&facet-discipline="Medicine%20%26%20Public%20Health"
+Text: Psycho-oncology
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/researchers/91489647SN
+Text: View author profile
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/researchers/22832450SN
+Text: View author profile
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/researchers/69202668SN
+Text: View author profile
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10549-025-07641-6
+Text: Log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/product/springer-plus
+Text: View plans
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/librarians/licensing/agc/journals
+Text: Institutional subscriptions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/journals/
+Text: Find a journal
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish with us
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springernature.com/home/
+Text: Track your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/journals/a/1
+Text: Journals A-Z
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/books/a/1
+Text: Books A-Z
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/journals
+Text: Journal finder
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral
+Text: Language editing
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research
+Text: Open access publishing
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/products
+Text: Our products
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/librarians
+Text: Librarians
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/societies
+Text: Societies
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/partners
+Text: Partners and advertisers
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/brands/springer
+Text: Springer
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.nature.com/
+Text: Nature Portfolio
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/brands/bmc
+Text: BMC
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/brands/palgrave
+Text: Palgrave Macmillan
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/brands/apress
+Text: Apress
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/brands/discover
+Text: Discover
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/gp/legal/ccpa
+Text: Your US state privacy rights
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/accessibility
+Text: Accessibility statement
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/termsandconditions
+Text: Terms and conditions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/privacystatement
+Text: Privacy policy
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://support.springernature.com/en/support/home
+Text: Help and support
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://link.springer.com/legal-notice
+Text: Legal notice
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations
+Text: Cancel contracts here
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
 URL: https://www.springernature.com/
 Text: 
 --------------------------------------------------

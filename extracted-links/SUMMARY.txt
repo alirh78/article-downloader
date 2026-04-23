@@ -1,13 +1,13 @@
 ======================================================================
 DOWNLOAD SUMMARY REPORT
-Generated: 2026-04-23 06:20:29.867186
+Generated: 2026-04-23 06:24:05.356356
 ======================================================================
 
 📊 STATISTICS:
-   • Total links found: 235
+   • Total links found: 616
    • PDF documents: 2
-   • Article pages: 41
-   • Other downloads: 0
+   • Article pages: 91
+   • Other downloads: 1
 
 📑 PDF FILES:
    1. https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
@@ -24,4 +24,4 @@ Generated: 2026-04-23 06:20:29.867186
    8. https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/1
    9. https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/2
    10. https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/2
-   ... and 31 more
+   ... and 81 more
