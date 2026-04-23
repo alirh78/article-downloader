@@ -1,5 +1,9 @@
 name: Download Pages & Extract Article Links
 
+# ✅ ADD THIS SECTION - GIVES PERMISSION TO PUSH
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:  # Manual trigger - you click "Run workflow"
 
@@ -401,11 +405,22 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # ✅ ADD THIS - Set up authentication
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          
           git add downloaded-pages/
           git add extracted-links/
           git add pdfs/
-          git commit -m "Downloaded pages and extracted links on $(date)" || echo "No changes to commit"
-          git push
+          
+          # Check if there are changes before committing
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Downloaded pages and extracted links on $(date)"
+            git push
+            echo "✅ Changes pushed successfully!"
+          fi
           
           echo "✅ All files saved to GitHub!"
       
