@@ -1,11 +1,27 @@
 ======================================================================
 DOWNLOAD SUMMARY REPORT
-Generated: 2026-04-23 06:17:39.612675
+Generated: 2026-04-23 06:20:29.867186
 ======================================================================
 
 📊 STATISTICS:
-   • Total links found: 0
-   • PDF documents: 0
-   • Article pages: 0
+   • Total links found: 235
+   • PDF documents: 2
+   • Article pages: 41
    • Other downloads: 0
 
+📑 PDF FILES:
+   1. https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+   2. https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+
+📰 ARTICLE LINKS:
+   1. https://pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/41598/article&sz=728x90&pos=top&articleid=s41598-025-30703-0
+   2. https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1038/s41598-025-30703-0
+   3. https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+   4. https://link.springer.com/article/10.1038/s41598-025-30703-0/save-research?_csrf=ppm1MVIyuQOOq9WGRWIUwA1UaC045hrm
+   5. https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+   6. https://link.springer.com/article/10.1038/s41598-025-30703-0/metrics
+   7. https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/1
+   8. https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/1
+   9. https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/2
+   10. https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/2
+   ... and 31 more

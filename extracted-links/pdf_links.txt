@@ -1,3 +1,11 @@
-PDF FILES FOUND - 2026-04-23 06:17:39.612505
+PDF FILES FOUND - 2026-04-23 06:20:29.866980
 ======================================================================
 
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+PDF URL: https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+Link text: Download PDF
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+PDF URL: https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+Link text: Download PDF
+--------------------------------------------------

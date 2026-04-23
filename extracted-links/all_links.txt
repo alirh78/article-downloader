@@ -1,3 +1,943 @@
-ALL LINKS FOUND - 2026-04-23 06:17:39.612421
+ALL LINKS FOUND - 2026-04-23 06:20:29.866714
 ======================================================================
 
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#main
+Text: Skip to main content
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/41598/article&sz=728x90&pos=top&articleid=s41598-025-30703-0
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1038/s41598-025-30703-0
+Text: Log in
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#eds-c-header-nav
+Text: Menu
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/journals/
+Text: Find a journal
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish with us
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springernature.com/home/
+Text: Track your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#eds-c-header-popup-search
+Text: Search
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/saved-research
+Text: Saved research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://order.springer.com/public/cart
+Text: Cart
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/
+Text: Home
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.nature.com/srep/
+Text: Scientific Reports
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research
+Text: Open access
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#citeas
+Text: Cite this article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research
+Text: open access
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+Text: Download PDF
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/save-research?_csrf=ppm1MVIyuQOOq9WGRWIUwA1UaC045hrm
+Text: Save article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/saved-research
+Text: View saved research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.nature.com/srep/
+Text: Scientific Reports
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+Text: Download PDF
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#auth-Omer-Sevinc-Aff1
+Text: Omer Sevinc
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Aff1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#auth-Mehrube-Mehrubeoglu-Aff2
+Text: Mehrube Mehrubeoglu
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Aff2
+Text: 2
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#auth-Abdullah_As_m-Y_lmaz-Aff3
+Text: Abdullah Asım Yılmaz
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Aff3
+Text: 3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#auth-Sharon-Derrick-Aff4
+Text: Sharon Derrick
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Aff4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/metrics
+Text: Explore all metrics
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/10.1007/978-3-031-95240-1_15?fromPaywallRec=false
+Text: A Sustainable Deep Learning-Based Hybrid Model for Image Forgery Detection Using Convolutional Neura
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/10.1007/978-981-95-5214-6_1?fromPaywallRec=false
+Text: AI-Assisted Species Identification in Forensic Entomology: Advancements and Applications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/10.1007/s42979-025-04263-z?fromPaywallRec=false
+Text: A Novel Image Forensics Approach Based on Machine Learning with use Case in Sensor Image Data Valida
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/subjects/biometrics
+Text: Biometrics
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/subjects/forensic-anthropology
+Text: Forensic Anthropology
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/subjects/forensic-archaeology
+Text: Forensic Archaeology
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/subjects/forensic-dentistry
+Text: Forensic Dentistry
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/subjects/forensic-science
+Text: Forensic Science
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/subjects/forensic-medicine
+Text: Forensic Medicine
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/subjects/artificial-intelligence-applications-in-dental-imaging
+Text: Artificial Intelligence Applications in Dental Imaging
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR2
+Text: 2
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR3
+Text: 3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/1
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR5
+Text: 5
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR6
+Text: 6
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR7
+Text: 7
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR8
+Text: 8
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR9
+Text: 9
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR10
+Text: 10
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR11
+Text: 11
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR12
+Text: 12
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR13
+Text: 13
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR14
+Text: 14
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR15
+Text: 15
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR16
+Text: 16
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR17
+Text: 17
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR18
+Text: 18
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR19
+Text: 19
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR20
+Text: 20
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR21
+Text: 21
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR22
+Text: 22
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR23
+Text: 23
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR24
+Text: 24
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR25
+Text: 25
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR26
+Text: 26
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR27
+Text: 27
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR28
+Text: 28
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR29
+Text: 29
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR30
+Text: 30
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR31
+Text: 31
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR32
+Text: 32
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR33
+Text: 33
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR34
+Text: 34
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/1
+Text: Full size table
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR3
+Text: 3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab2
+Text: 2
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/2
+Text: Full size table
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig2
+Text: 2
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig3
+Text: 3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/2
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/3
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/4
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig2
+Text: 2
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig3
+Text: 3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig5
+Text: 5
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR34
+Text: 34
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/5
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab3
+Text: 3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR18
+Text: 18
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR35
+Text: 35
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab3
+Text: 3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/3
+Text: Full size table
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR36
+Text: 36
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR37
+Text: 37
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR38
+Text: 38
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR39
+Text: 39
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR40
+Text: 40
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR41
+Text: 41
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR42
+Text: 42
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig6
+Text: 6
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig7
+Text: 7
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig8
+Text: 8
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/6
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#ref-CR43
+Text: 43
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab5
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab4
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab5
+Text: 4
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab4
+Text: 5
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/7
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/8
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/9
+Text: Full size image
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/4
+Text: Full size table
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/5
+Text: Full size table
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/6
+Text: Full size table
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Tab6
+Text: 6
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: s41598-025-30703-0.html#Fig9
+Text: 9
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://github.com/somer81/SiameseSkulls
+Text: https://github.com/somer81/SiameseSkulls
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1111/1556-4029.14284
+Text: https://doi.org/10.1111/1556-4029.14284
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1111%2F1556-4029.14284
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXosVOjurg%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Forensic%20identification%20from%20human%20skulls%20using%20transfer%20learning%20and%20siamese%20neural%20networks&journal=J.%20Forensic%20Sci.&doi=10.1111%2F1556-4029.14284&volume=65&pages=1226-1235&publication_year=2020&author=Liu%2CH&author=Yang%2CY&author=Chen%2CS&author=Ma%2CK
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Deep%20learning%20for%20sex%20determination%20from%20skull%20images%3A%20A%20comparative%20study&journal=J.%20Forensic&volume=23&pages=199-215&publication_year=2019&author=Doe%2CJ&author=Smith%2CR&author=Williams%2CA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Application%20of%20cnns%20in%20forensic%20anthropology%3A%20Sex%20determination%20from%20skull%20images&journal=Forensic%20Sci.%20Res.&volume=19&pages=87-98&publication_year=2020&author=Smith%2CT
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Transfer%20learning%20for%20robust%20ancestry%20estimation%20from%20skull%20images&journal=J.%20Digit.%20Forensics&volume=12&pages=98-105&publication_year=2021&author=Lee%2CJH&author=Kim%2CHJ&author=Choi%2CS
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Ancestry%20estimation%20using%20deep%20learning%20approaches%20for%20cranial%20images&journal=Forensic%20Anthropol.%20Q.&volume=29&pages=45-58&publication_year=2018&author=Rodriguez%2CC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Ancestry%20classification%20using%20deep%20learning%20on%20cranial%20images&journal=ForensicImaging%20Q.&volume=37&pages=143-156&publication_year=2021&author=Martinez-Jimenez%2CV&author=Rodriguez%2CC&author=Gomez%2CP
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1371%2Fjournal.pone.0316253
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB2MXkslOrsbk%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20novel%20deep%20learning-based%20framework%20with%20particle%20swarm%20optimisation%20for%20intrusion%20detection%20in%20computer%20networks&journal=PloS%20One&doi=10.1371%2Fjournal.pone.0316253&volume=20&pages=1-23&publication_year=2025&author=Yilmaz%2CAA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1109/ACCESS.2021.3089586
+Text: https://doi.org/10.1109/ACCESS.2021.3089586
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1109%2FACCESS.2021.3089586
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20new%20malware%20classification%20framework%20based%20on%20deep%20learning%20algorithms&journal=IEEE%20Access&doi=10.1109%2FACCESS.2021.3089586&volume=8&pages=87936-87951&publication_year=2021&author=Aslan%2CO&author=Yilmaz%2CAA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.18280/ts.390307
+Text: https://doi.org/10.18280/ts.390307
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Predicting%20age%20from%20cranial%20morphology%20using%20cnns&journal=Age%20and%20Forensics&volume=22&pages=145-158&publication_year=2019&author=Ramanathan%2CR
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2022pfgp.book.....P
+Text: ADS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Age%20prediction%20using%20cranial%20morphological%20features%20and%20deep%20learning&journal=J.%20Aging%20Res.&volume=34&pages=199-212&publication_year=2022&author=Patel%2CA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Using%20convolutional%20neural%20networks%20for%20cranial%20pathological%20condition%20detection&journal=Med.&volume=45&pages=89-97&publication_year=2021&author=Smith%2CT&author=Chen%2CL&author=Davis%2CP
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Pathological%20conditions%20in%20skull%20images%20identified%20using%20deep%20learning&journal=J.%20Cranial%20Imaging%20Res.&volume=45&pages=118-130&publication_year=2022&author=Chen%2CX
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Advances%20in%20cranial%20pathology%20detection%20using%20deep%20learning&journal=Med.%20Imaging%20Rev.&volume=45&pages=112-130&publication_year=2023&author=Gupta%2CS&author=Sharma%2CP&author=Verma%2CR
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1007/s00414-020-02408-3
+Text: https://doi.org/10.1007/s00414-020-02408-3
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/doi/10.1007/s00414-020-02408-3
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Forensic%20identification%20from%203d%20skull%20images%20using%20siamese%20neural%20network%20with%20transfer%20learning&journal=Int.%20J.%20Leg.%20Medicine&doi=10.1007%2Fs00414-020-02408-3&volume=135&pages=629-639&publication_year=2021&author=Jeon%2CM&author=Lee%2CJS&author=Cho%2CKH&author=Park%2CKR
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1111/1556-4029.14677
+Text: https://doi.org/10.1111/1556-4029.14677
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1111%2F1556-4029.14677
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Sex%20and%20ancestry%20identification%20from%20human%20skulls%20using%20a%20transfer%20learning%20siamese%20neural%20network&journal=J.%20Forensic%20Sci.&doi=10.1111%2F1556-4029.14677&volume=66&pages=180-187&publication_year=2021&author=Li%2CX&author=Wu%2CX&author=Liu%2CX&author=Zhu%2CY
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1371/journal.pone.0316253
+Text: https://doi.org/10.1371/journal.pone.0316253
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1371%2Fjournal.pone.0316253
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39937819
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11819531
+Text: PubMed Central
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB2MXkslOrsbk%3D
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20novel%20deep%20learning-based%20framework%20with%20particle%20swarm%20optimisation%20for%20intrusion%20detection%20in%20computer%20networks&journal=PLoS%20One&doi=10.1371%2Fjournal.pone.0316253&volume=20&publication_year=2025&author=Y%C4%B1lmaz%2CAA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.33769/aupse.1361266
+Text: https://doi.org/10.33769/aupse.1361266
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1007/s11042-024-20518-y
+Text: https://doi.org/10.1007/s11042-024-20518-y
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/doi/10.1007/s11042-024-20518-y
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Fstl-sa%3A%20Few-shot%20transfer%20learning%20for%20sentiment%20analysis%20from%20facial%20expressions&journal=Multimed.%20Tools%20Appl.&doi=10.1007%2Fs11042-024-20518-y&volume=83&pages=12945-12962&publication_year=2024&author=Meena%2CG&author=Mohbey%2CKK&author=Lokesh%2CK
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1007/s11042-024-18437-z
+Text: https://doi.org/10.1007/s11042-024-18437-z
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/doi/10.1007/s11042-024-18437-z
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Monkeypox%20recognition%20and%20prediction%20from%20visuals%20using%20deep%20transfer%20learning-based%20neural%20networks&journal=Multimed.%20Tools%20Appl.&doi=10.1007%2Fs11042-024-18437-z&publication_year=2024&author=Shah%2CM&author=Iqbal%2CT&author=Qureshi%2CR
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1633/JISTaP.2024.12.2.5
+Text: https://doi.org/10.1633/JISTaP.2024.12.2.5
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1633%2FJISTaP.2024.12.2.5
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Point%20of%20interest%20recommendation%20system%20using%20sentiment%20analysis&journal=J.%20Inf.%20Sci.%20Theory%20Pract.&doi=10.1633%2FJISTaP.2024.12.2.5&volume=12&pages=64-75&publication_year=2024&author=Lee%2CH&author=Park%2CS&author=Kim%2CJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1016/j.fri.2022.200214
+Text: https://doi.org/10.1016/j.fri.2022.200214
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1016%2Fj.fri.2022.200214
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Hybrid%20cnn%E2%80%93contrastive%20embedding%20framework%20for%20skull-based%20sex%20determination%20using%20multi-institutional%20ct%20data&journal=Forensic%20Imaging&doi=10.1016%2Fj.fri.2022.200214&volume=30&pages=200-214&publication_year=2022&author=Rahman%2CM&author=Ahmed%2CS&author=Hoque%2CM
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1109/ACCESS.2023.5432134
+Text: https://doi.org/10.1109/ACCESS.2023.5432134
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1109%2FACCESS.2023.5432134
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Triplet%20loss-based%20feature%20learning%20for%20robust%20craniofacial%20retrieval%20in%20forensic%20applications&journal=IEEE%20Access&doi=10.1109%2FACCESS.2023.5432134&volume=11&pages=54321-54333&publication_year=2023&author=Zhao%2CL&author=Chen%2CT&author=Wang%2CH
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1016/j.jofri.2024.100325
+Text: https://doi.org/10.1016/j.jofri.2024.100325
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1016%2Fj.jofri.2024.100325
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Deep%20siamese%E2%80%93resnet%20hybrid%20architecture%20for%20cross-domain%20skull-to-face%20recognition&journal=J.%20Forensic%20Radiol.%20Imaging&doi=10.1016%2Fj.jofri.2024.100325&volume=18&pages=45-58&publication_year=2024&author=Kaur%2CR&author=Singh%2CP
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1016/j.compbiomed.2024.108152
+Text: https://doi.org/10.1016/j.compbiomed.2024.108152
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1016%2Fj.compbiomed.2024.108152
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Self-supervised%20contrastive%20pretraining%20on%20skull%20ct%20images%20for%20forensic%20identification&journal=Comput.%20Biol.%20Medicine&doi=10.1016%2Fj.compbiomed.2024.108152&volume=174&publication_year=2024&author=Murphy%2CD&author=Patel%2CA&author=Rodriguez%2CC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.3390/app10144703
+Text: https://doi.org/10.3390/app10144703
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.3390%2Fapp10144703
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhs1GnurrL
+Text: CAS
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20survey%20on%20artificial%20intelligence%20techniques%20for%20biomedical%20image%20analysis%20in%20skeleton-based%20forensic%20human%20identification&journal=Appl.%20Sci.&doi=10.3390%2Fapp10144703&volume=10&publication_year=2020&author=Mesejo%2CP&author=Martos%2CR&author=Ib%C3%A1%C3%B1ez%2CQ&author=Novo%2CJ&author=Ortega%2CM
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://arxiv.org/abs/1409.1556
+Text: arXiv:1409.1556
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://doi.org/10.1109/CVPR.2016.90
+Text: https://doi.org/10.1109/CVPR.2016.90
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://arxiv.org/abs/1905.11935
+Text: arXiv:1905.11935
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://arxiv.org/abs/1412.6980
+Text: arXiv:1412.6980
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://citation-needed.springer.com/v2/references/10.1038/s41598-025-30703-0?format=refman&flavour=references
+Text: Download references
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Omer%20Sevinc
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Omer%20Sevinc
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Omer%20Sevinc%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Mehrube%20Mehrubeoglu
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Mehrube%20Mehrubeoglu
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Mehrube%20Mehrubeoglu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Abdullah%20As%C4%B1m%20Y%C4%B1lmaz
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Abdullah%20As%C4%B1m%20Y%C4%B1lmaz
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Abdullah%20As%C4%B1m%20Y%C4%B1lmaz%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Sharon%20Derrick
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Sharon%20Derrick
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Sharon%20Derrick%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: mailto:abdullahasimyilmaz@gmail.com
+Text: Abdullah Asım Yılmaz
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: http://creativecommons.org/licenses/by-nc-nd/4.0/
+Text: http://creativecommons.org/licenses/by-nc-nd/4.0/
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://s100.copyright.com/AppDispatchServlet?title=Forensic%20identification%20using%20siamese%2C%20transfer%20learning%20and%20custom%20deep%20learning%20models&author=Omer%20Sevinc%20et%20al&contentID=10.1038%2Fs41598-025-30703-0&copyright=The%20Author%28s%29&publication=2045-2322&publicationDate=2025-11-29&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY-NC-ND
+Text: Reprints and permissions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://crossmark.crossref.org/dialog/?doi=10.1038/s41598-025-30703-0
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://citation-needed.springer.com/v2/references/10.1038/s41598-025-30703-0?format=refman&flavour=citation
+Text: Download citation
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/researchers/84898673SN
+Text: View author profile
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/journals/
+Text: Find a journal
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish with us
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springernature.com/home/
+Text: Track your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/journals/a/1
+Text: Journals A-Z
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/books/a/1
+Text: Books A-Z
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/journals
+Text: Journal finder
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral
+Text: Language editing
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research
+Text: Open access publishing
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/products
+Text: Our products
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/librarians
+Text: Librarians
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/societies
+Text: Societies
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/partners
+Text: Partners and advertisers
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/brands/springer
+Text: Springer
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.nature.com/
+Text: Nature Portfolio
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/brands/bmc
+Text: BMC
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/brands/palgrave
+Text: Palgrave Macmillan
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/brands/apress
+Text: Apress
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/brands/discover
+Text: Discover
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/gp/legal/ccpa
+Text: Your US state privacy rights
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/accessibility
+Text: Accessibility statement
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/termsandconditions
+Text: Terms and conditions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/privacystatement
+Text: Privacy policy
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://support.springernature.com/en/support/home
+Text: Help and support
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://link.springer.com/legal-notice
+Text: Legal notice
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations
+Text: Cancel contracts here
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
+URL: https://www.springernature.com/
+Text: 
+--------------------------------------------------
