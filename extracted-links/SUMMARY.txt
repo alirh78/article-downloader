@@ -1,0 +1,27 @@
+======================================================================
+DOWNLOAD SUMMARY REPORT
+Generated: 2026-04-23 06:47:01
+======================================================================
+
+📊 STATISTICS:
+   • HTML files analyzed: 21
+   • Total links found: 140
+   • PDF documents: 1
+   • Article links: 127
+   • Other downloads: 0
+
+📑 PDF FILES:
+   1. https://ieee-org.widen.net/content/xx9cqxwwjm/original/nondiscrimination.pdf
+
+📰 ARTICLE LINKS:
+   1. downloaded-pages/p9-26.html#main-content
+   2. https://www.ieee.org/
+   3. https://ieeexplore.ieee.org/Xplore/home.jsp
+   4. https://standards.ieee.org
+   5. http://spectrum.ieee.org/
+   6. https://www.ieee.org/sitemap.html
+   7. https://www.ieee.org/membership/join
+   8. https://www.ieee.org/give
+   9. https://www.ieee.org/cart/public/myCart/page.html
+   10. https://www.ieee.org/profile/public/createwebaccount/showCreateAccount.html?url=
+   ... and 117 more

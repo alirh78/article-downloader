@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /rest
+Disallow: /ielx*
+User-agent: Twitterbot
+User-agent: facebookexternalhit/1.1
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.png$
+
+User-agent: GPTBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: YandexAdditionalBot
+Disallow: /
+User-agent: meta-externalagent
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: ChatGLM-Spider
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+User-agent: ByteSpider
+Disallow: /
+User-agent: ShapBot
+Disallow: /
+User-agent: AliyunSecBot
+Disallow: /
+User-agent: quillbot
+Disallow: /
+User-agent: ResearchGateBot
+Disallow: /
