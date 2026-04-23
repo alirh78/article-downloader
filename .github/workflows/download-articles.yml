@@ -42,9 +42,13 @@ jobs:
           # ============================================
           
           urls=(
-            "https://www.tandfonline.com/doi/abs/10.1080/13607863.2017.1423033",
-            "https://www.tandfonline.com/doi/abs/10.1080/13854046.2025.2547934",
-            "https://link.springer.com/article/10.1007/s11042-022-14290-0"
+            "https://www.sciencedirect.com/science/article/pii/S0022395624004928",
+            "https://www.mdpi.com/2313-7673/8/6/475",
+            "https://www.sciencedirect.com/science/article/pii/S2949903824000010",
+            "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262527",
+            "https://ieeexplore.ieee.org/abstract/document/8417207/",
+            "https://academic.oup.com/acn/article-abstract/34/2/222/4951483",
+            "https://ieeexplore.ieee.org/abstract/document/10969487/"
           )
           
           # ============================================
