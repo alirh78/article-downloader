@@ -1,17 +1,19 @@
 ======================================================================
 DOWNLOAD SUMMARY REPORT
-Generated: 2026-04-23 06:24:05.356356
+Generated: 2026-04-23 06:26:43.886543
 ======================================================================
 
 📊 STATISTICS:
-   • Total links found: 616
-   • PDF documents: 2
-   • Article pages: 91
+   • Total links found: 762
+   • PDF documents: 4
+   • Article pages: 102
    • Other downloads: 1
 
 📑 PDF FILES:
    1. https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
    2. https://link.springer.com/content/pdf/10.1038/s41598-025-30703-0.pdf
+   3. https://www.who.int/ethics/Ethics_basic_concepts_ENG.pdf
+   4. https://www.eui.eu/Documents/ServicesAdmin/DeanOfStudies/CodeofEthicsinAcademicResearch.pdf
 
 📰 ARTICLE LINKS:
    1. https://pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/41598/article&sz=728x90&pos=top&articleid=s41598-025-30703-0
@@ -24,4 +26,4 @@ Generated: 2026-04-23 06:24:05.356356
    8. https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/1
    9. https://link.springer.com/article/10.1038/s41598-025-30703-0/tables/2
    10. https://link.springer.com/article/10.1038/s41598-025-30703-0/figures/2
-   ... and 81 more
+   ... and 92 more

@@ -1,4 +1,4 @@
-ARTICLE LINKS FOUND - 2026-04-23 06:24:05.356017
+ARTICLE LINKS FOUND - 2026-04-23 06:26:43.886353
 ======================================================================
 
 Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
@@ -362,6 +362,50 @@ Article URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.sp
 Title/Text: Log in via an institution
 --------------------------------------------------
 Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+Article URL: https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations
+Title/Text: Cancel contracts here
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/11042/article&sz=728x90&pos=top&articleid=s11042-022-14290-0
+Title/Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s11042-022-14290-0
+Title/Text: Log in
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://link.springer.com/article/10.1007/s11042-022-14290-0/save-research?_csrf=Han_OdAQWVuyJZGPMb3GSBevkKDvIllE
+Title/Text: Save article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://link.springer.com/article/10.1007/s11042-022-14290-0/metrics
+Title/Text: Explore all metrics
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11042-022-14290-0
+Title/Text: log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11042-022-14290-0
+Title/Text: Log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://www.who.int/news-room/fact-sheets/detail/depression
+Title/Text: https://www.who.int/news-room/fact-sheets/detail/depression
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://www.who.int/newsroom/events/detail/2017/04/07/default-calendar/world-health-day-2017
+Title/Text: https://www.who.int/newsroom/events/detail/2017/04/07/default-calendar/world-health-day-2017
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://s100.copyright.com/AppDispatchServlet?title=Emotion%20detection%20for%20supporting%20depression%20screening&author=Rita%20Francese%20et%20al&contentID=10.1007%2Fs11042-022-14290-0&copyright=The%20Author%28s%29%2C%20under%20exclusive%20licence%20to%20Springer%20Science%2BBusiness%20Media%2C%20LLC%2C%20part%20of%20Springer%20Nature&publication=1380-7501&publicationDate=2022-12-19&publisherName=SpringerNature&orderBeanReset=true
+Title/Text: Reprints and permissions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+Article URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11042-022-14290-0
+Title/Text: Log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
 Article URL: https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations
 Title/Text: Cancel contracts here
 --------------------------------------------------

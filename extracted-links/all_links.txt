@@ -1,4 +1,4 @@
-ALL LINKS FOUND - 2026-04-23 06:24:05.354929
+ALL LINKS FOUND - 2026-04-23 06:26:43.885602
 ======================================================================
 
 Source: downloaded-pages/link_springer_com_article_10_1038_s41598-025-30703-0/s41598-025-30703-0.html
@@ -2462,6 +2462,590 @@ URL: https://support.springernature.com/en/support/solutions/articles/6000255911
 Text: Cancel contracts here
 --------------------------------------------------
 Source: downloaded-pages/link_springer_com_article_10_1007_s10549-025-07641-6/s10549-025-07641-6.html
+URL: https://www.springernature.com/
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: s11042-022-14290-0.html#main
+Text: Skip to main content
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/11042/article&sz=728x90&pos=top&articleid=s11042-022-14290-0
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s11042-022-14290-0
+Text: Log in
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: s11042-022-14290-0.html#eds-c-header-nav
+Text: Menu
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/journals/
+Text: Find a journal
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish with us
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springernature.com/home/
+Text: Track your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: s11042-022-14290-0.html#eds-c-header-popup-search
+Text: Search
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/saved-research
+Text: Saved research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://order.springer.com/public/cart
+Text: Cart
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/
+Text: Home
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/journal/11042
+Text: Multimedia Tools and Applications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: s11042-022-14290-0.html#citeas
+Text: Cite this article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/article/10.1007/s11042-022-14290-0/save-research?_csrf=Han_OdAQWVuyJZGPMb3GSBevkKDvIllE
+Text: Save article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/saved-research
+Text: View saved research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/journal/11042
+Text: Multimedia Tools and Applications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/journal/11042/aims-and-scope
+Text: Aims and scope
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.editorialmanager.com/mtap/
+Text: Submit manuscript
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: s11042-022-14290-0.html#auth-Rita-Francese-Aff1
+Text: Rita Francese
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://orcid.org/0000-0002-6929-0056
+Text: ORCID:orcid.org/0000-0002-6929-0056
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: s11042-022-14290-0.html#Aff1
+Text: 1
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: s11042-022-14290-0.html#auth-Pasquale-Attanasio-Aff2
+Text: Pasquale Attanasio
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: s11042-022-14290-0.html#Aff2
+Text: 2
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/article/10.1007/s11042-022-14290-0/metrics
+Text: Explore all metrics
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11042-022-14290-0
+Text: log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11042-022-14290-0
+Text: Log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/product/springer-plus
+Text: View plans
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/librarians/licensing/agc/journals
+Text: Institutional subscriptions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/10.1007/978-981-96-5318-8_24?fromPaywallRec=true
+Text: Research on the Application of Deep Neural Network in the Classification of EEG Data of Major Depres
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/10.1007/s10072-023-06619-w?fromPaywallRec=true
+Text: Psychometrics and diagnostics of the Italian version of the Beck Depression Inventory-II (BDI-II) in
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/10.1007/s13246-024-01392-2?fromPaywallRec=true
+Text: Prediction of treatment response in major depressive disorder using a hybrid of convolutional recurr
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/subjects/emotional-development
+Text: Emotional Development
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/subjects/mental-health
+Text: Mental Health
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/subjects/psychological-assessment
+Text: Psychological Assessment
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/subjects/psychological-diagnostics
+Text: Psychological Diagnostics
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/subjects/psychometrics
+Text: Psychometrics
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/subjects/psychological-testing
+Text: Psychological Testing
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/subjects/mobile-health-interventions-for-mental-health
+Text: Mobile Health Interventions for Mental Health
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.who.int/news-room/fact-sheets/detail/depression
+Text: https://www.who.int/news-room/fact-sheets/detail/depression
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://flutter.dev/
+Text: https://flutter.dev/
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://cloud.google.com/dialogflow
+Text: https://cloud.google.com/dialogflow
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.kaggle.com/deadskull7/fer2013#_sid=js0
+Text: https://www.kaggle.com/deadskull7/fer2013#_sid=js0
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.who.int/ethics/Ethics_basic_concepts_ENG.pdf
+Text: https://www.who.int/ethics/Ethics_basic_concepts_ENG.pdf
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.eui.eu/Documents/ServicesAdmin/DeanOfStudies/CodeofEthicsinAcademicResearch.pdf
+Text: https://www.eui.eu/Documents/ServicesAdmin/DeanOfStudies/CodeofEthicsinAcademicResearch.pdf
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_en.htm
+Text: https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/in
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.cc.gatech.edu/gvu/user_surveys/survey-1998-10/questions/use.html
+Text: https://www.cc.gatech.edu/gvu/user_surveys/survey-1998-10/questions/use.html
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.hotjar.com/net-promoter-score/
+Text: https://www.hotjar.com/net-promoter-score/
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1001%2Farchpsyc.1961.01710120031004
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=An%20inventory%20for%20measuring%20depression&journal=Archives%20of%20general%20psychiatry&doi=10.1001%2Farchpsyc.1961.01710120031004&volume=4&issue=6&pages=561-571&publication_year=1961&author=Beck%2CAT&author=Ward%2CCH&author=Mendelson%2CM&author=Mock%2CJ&author=Erbaugh%2CJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.cdc.gov/workplacehealthpromotion/health-strategies/depression/evaluation-measures/index.html
+Text: https://www.cdc.gov/workplacehealthpromotion/health-strategies/depression/evaluation-measures/index.
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109/ICIP.2019.8803467
+Text: https://doi.org/10.1109/ICIP.2019.8803467
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109/TETC.2020.2974478
+Text: https://doi.org/10.1109/TETC.2020.2974478
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109%2FTETC.2020.2974478
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20mental%20health%20chatbot%20for%20regulating%20emotions%20%28sermo%29%20-%20concept%20and%20usability%20test&journal=IEEE%20Trans%20Emerging%20Topics%20Comput&doi=10.1109%2FTETC.2020.2974478&volume=9&issue=3&pages=1170-1182&publication_year=2021&author=Denecke%2CK&author=Vaaheesan%2CS&author=Arulnathan%2CA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Basic%20emotions&journal=Handbook%20Cognit%20Emotion&volume=98&issue=45-60&publication_year=1999&author=Ekman%2CP
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109/ACCESS.2021.3054345
+Text: https://doi.org/10.1109/ACCESS.2021.3054345
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109%2FACCESS.2021.3054345
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Efficient%20feature-aware%20hybrid%20model%20of%20deep%20learning%20architectures%20for%20speech%20emotion%20recognition&journal=IEEE%20Access&doi=10.1109%2FACCESS.2021.3054345&volume=9&pages=19999-20011&publication_year=2021&author=Ezz-Eldin%2CM&author=Khalaf%2CAAM&author=Hamed%2CHFA&author=Hussein%2CAI
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1016%2F0022-3956%2893%2990041-Y
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Abnormal%20speech%20articulation%2C%20psychomotor%20retardation%2C%20and%20subcortical%20dysfunction%20in%20major%20depression&journal=J%20Psychiatric%20Res&doi=10.1016%2F0022-3956%2893%2990041-Y&volume=27&issue=3&pages=309-319&publication_year=1993&author=Flint%2CAJ&author=Black%2CSE&author=Campbell-Taylor%2CI&author=Gailey%2CGF&author=Levinton%2CC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1007/s11042-020-09576-0
+Text: https://doi.org/10.1007/s11042-020-09576-0
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/doi/10.1007/s11042-020-09576-0
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20user-centered%20approach%20for%20detecting%20emotions%20with%20low-cost%20sensors&journal=Multim%20Tools%20Appl&doi=10.1007%2Fs11042-020-09576-0&volume=79&issue=47&pages=35885-35907&publication_year=2020&author=Francese%2CR&author=Risi%2CM&author=Tortora%2CG
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109/CFIS54774.2022.9756429
+Text: https://doi.org/10.1109/CFIS54774.2022.9756429
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1302%2F0301-620X.96B5.32434
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Assessing%20treatment%20outcomes%20using%20a%20single%20question%3A%20the%20net%20promoter%20score&journal=Bone%20Joint%20J&doi=10.1302%2F0301-620X.96B5.32434&volume=96&issue=5&pages=622-628&publication_year=2014&author=Hamilton%2CD&author=Lane%2CJV&author=Gaston%2CP&author=Patton%2CJ&author=Macdonald%2CD&author=Simpson%2CA&author=Howie%2CC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.2478%2Fv10117-011-0021-1
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Comparison%20of%20values%20of%20pearson%E2%80%99s%20and%20spearman%E2%80%99s%20correlation%20coefficients%20on%20the%20same%20sets%20of%20data&journal=Quaestiones%20Geographicae&doi=10.2478%2Fv10117-011-0021-1&volume=30&issue=2&pages=87-93&publication_year=2011&author=Hauke%2CJ&author=Kossowski%2CT
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1016%2Fj.jbi.2018.05.007
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Automated%20depression%20analysis%20using%20convolutional%20neural%20networks%20from%20speech&journal=J%20Biomed%20Inf&doi=10.1016%2Fj.jbi.2018.05.007&volume=83&pages=103-111&publication_year=2018&author=He%2CL&author=Cao%2CC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109%2FTCDS.2017.2721552
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligent%20system%20for%20automatic%20depression%20level%20analysis%20through%20visual%20and%20vocal%20expressions&journal=IEEE%20Trans%20Cognit%20Develop%20Syst&doi=10.1109%2FTCDS.2017.2721552&volume=10&issue=3&pages=668-680&publication_year=2017&author=Jan%2CA&author=Meng%2CH&author=Gaus%2CYFBA&author=Zhang%2CF
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1034%2Fj.1600-0714.2002.00091.x
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Facial%20pain%2C%20depression%20and%20stress%E2%80%93connections%20and%20directions&journal=J%20Oral%20Pathology%20Med&doi=10.1034%2Fj.1600-0714.2002.00091.x&volume=31&issue=10&pages=615-619&publication_year=2002&author=Korszun%2CA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1080%2F16549716.2019.1666695
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Targeting%20ethical%20considerations%20tied%20to%20image-based%20mobile%20health%20diagnostic%20support%20specific%20to%20clinicians%20in%20low-resource%20settings%3A%20the%20brocher%20proposition&journal=Glob%20Health%20Action&doi=10.1080%2F16549716.2019.1666695&volume=12&issue=1&publication_year=2019&author=Laflamme%2CL&author=Chipps%2CJ&author=Fangerau%2CH&author=Juth%2CN&author=L%C3%A9gar%C3%A9%2CF&author=Sawe%2CH&author=Wallis%2CL
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.2196%2F10111
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Clinicians%E2%80%99%20concerns%20about%20mobile%20ecological%20momentary%20assessment%20tools%20designed%20for%20emerging%20psychiatric%20problems%3A%20prospective%20acceptability%20assessment%20of%20the%20memind%20app&journal=J%20Med%20Internet%20Res&doi=10.2196%2F10111&volume=21&issue=4&publication_year=2019&author=Lemey%2CC&author=Larsen%2CME&author=Devylder%2CJ&author=Courtet%2CP&author=Billot%2CR&author=Lenca%2CP&author=Walter%2CM&author=Baca-Garc%C3%ADa%2CE&author=Berrouiguet%2CS
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109%2FTHMS.2016.2635441
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Emothaw%3A%20a%20novel%20database%20for%20emotional%20state%20recognition%20from%20handwriting%20and%20drawing&journal=IEEE%20Trans%20Human-Mach%20Syst&doi=10.1109%2FTHMS.2016.2635441&volume=47&issue=2&pages=273-284&publication_year=2017&author=Likforman-Sulem%2CL&author=Esposito%2CA&author=Faundez-Zanuy%2CM&author=Cl%C3%A9men%C3%A7on%2CS&author=Cordasco%2CG
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.52586%2F5066
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Speech%20depression%20recognition%20based%20on%20attentional%20residual%20network&journal=Frontiers%20Bioscience-Landmark&doi=10.52586%2F5066&volume=26&issue=12&pages=1746-1759&publication_year=2021&author=Lu%2CX&author=Shi%2CD&author=Liu%2CY&author=Yuan%2CJ
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109%2FTMM.2014.2360798
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Learning%20salient%20features%20for%20speech%20emotion%20recognition%20using%20convolutional%20neural%20networks&journal=IEEE%20Trans%20Multimed&doi=10.1109%2FTMM.2014.2360798&volume=16&issue=8&pages=2203-2213&publication_year=2014&author=Mao%2CQ&author=Dong%2CM&author=Huang%2CZ&author=Zhan%2CY
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1111%2Fj.1365-2850.2009.01469.x
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20narrative%20review%20of%20the%20beck%20depression%20inventory%20%28bdi%29%20and%20implications%20for%20its%20use%20in%20an%20alcohol-dependent%20population&journal=J%20Psychiatr%20Ment%20Health%20Nurs&doi=10.1111%2Fj.1365-2850.2009.01469.x&volume=17&issue=1&pages=19-30&publication_year=2010&author=McPherson%2CA&author=Martin%2CC
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.2196%2Fjmir.4167
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Efficacy%20of%20a%20web-based%2C%20crowdsourced%20peer-to-peer%20cognitive%20reappraisal%20platform%20for%20depression%3A%20randomized%20controlled%20trial&journal=J%20Med%20Internet%20Res&doi=10.2196%2Fjmir.4167&volume=17&issue=3&publication_year=2015&author=Morris%2CRR&author=Schueller%2CSM&author=Picard%2CRW
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20guide%20to%20appropriate%20use%20of%20correlation%20coefficient%20in%20medical%20research&journal=Malawi%20Med%20J&volume=24&issue=3&pages=69-71&publication_year=2012&author=Mukaka%2CMM
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1037%2Fh0077714
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=A%20circumplex%20model%20of%20affect&journal=J%20Personality%20Social%20Psychol&doi=10.1037%2Fh0077714&volume=39&issue=6&publication_year=1980&author=Russell%2CJA
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109/IALP54817.2021.9675271
+Text: https://doi.org/10.1109/IALP54817.2021.9675271
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.23919/SICE.2019.8859798
+Text: https://doi.org/10.23919/SICE.2019.8859798
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1016%2Fj.apnr.2009.04.003
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Validation%20and%20testing%20of%20the%20acceptability%20e-scale%20for%20web-based%20patient-reported%20outcomes%20in%20cancer%20care&journal=Appl%20Nurs%20Res&doi=10.1016%2Fj.apnr.2009.04.003&volume=24&issue=1&pages=53-58&publication_year=2011&author=Tariman%2CJD&author=Berry%2CDL&author=Halpenny%2CB&author=Wolpin%2CS&author=Schepp%2CK
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1038%2Ftp.2017.25
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=New%20dimensions%20and%20new%20tools%20to%20realize%20the%20potential%20of%20rdoc%3A%20digital%20phenotyping%20via%20smartphones%20and%20connected%20devices&journal=Trans%20Psych&doi=10.1038%2Ftp.2017.25&volume=7&issue=3&pages=1053-1053&publication_year=2017&author=Torous%2CJ&author=Onnela%2CJ&author=Keshavan%2CM
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109/ICTAI52525.2021.00054
+Text: https://doi.org/10.1109/ICTAI52525.2021.00054
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.who.int/newsroom/events/detail/2017/04/07/default-calendar/world-health-day-2017
+Text: https://www.who.int/newsroom/events/detail/2017/04/07/default-calendar/world-health-day-2017
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://doi.org/10.1109%2FTAFFC.2018.2828819
+Text: Article
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: http://scholar.google.com/scholar_lookup?&title=Visually%20interpretable%20representation%20learning%20for%20depression%20recognition%20from%20facial%20images&journal=IEEE%20Trans%20Affect%20Comput&doi=10.1109%2FTAFFC.2018.2828819&volume=11&issue=3&pages=542-552&publication_year=2018&author=Zhou%2CX&author=Jin%2CK&author=Shang%2CY&author=Guo%2CG
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://citation-needed.springer.com/v2/references/10.1007/s11042-022-14290-0?format=refman&flavour=references
+Text: Download references
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Rita%20Francese
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Rita%20Francese
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Rita%20Francese%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/search?sortBy=newestFirst&contributor=Pasquale%20Attanasio
+Text: View author publications
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Pasquale%20Attanasio
+Text: PubMed
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Pasquale%20Attanasio%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Text: Google Scholar
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: mailto:francese@unisa.it
+Text: Rita Francese
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://s100.copyright.com/AppDispatchServlet?title=Emotion%20detection%20for%20supporting%20depression%20screening&author=Rita%20Francese%20et%20al&contentID=10.1007%2Fs11042-022-14290-0&copyright=The%20Author%28s%29%2C%20under%20exclusive%20licence%20to%20Springer%20Science%2BBusiness%20Media%2C%20LLC%2C%20part%20of%20Springer%20Nature&publication=1380-7501&publicationDate=2022-12-19&publisherName=SpringerNature&orderBeanReset=true
+Text: Reprints and permissions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://crossmark.crossref.org/dialog/?doi=10.1007/s11042-022-14290-0
+Text: 
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://citation-needed.springer.com/v2/references/10.1007/s11042-022-14290-0?format=refman&flavour=citation
+Text: Download citation
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/search?query=Emotion%20detection&facet-discipline="Computer%20Science"
+Text: Emotion detection
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/search?query=Depression&facet-discipline="Computer%20Science"
+Text: Depression
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/search?query=User%20study&facet-discipline="Computer%20Science"
+Text: User study
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11042-022-14290-0
+Text: Log in via an institution
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/product/springer-plus
+Text: View plans
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/librarians/licensing/agc/journals
+Text: Institutional subscriptions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/journals/
+Text: Find a journal
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish with us
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springernature.com/home/
+Text: Track your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/journals/a/1
+Text: Journals A-Z
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/books/a/1
+Text: Books A-Z
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/journals
+Text: Journal finder
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/authors
+Text: Publish your research
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral
+Text: Language editing
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research
+Text: Open access publishing
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/products
+Text: Our products
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/librarians
+Text: Librarians
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/societies
+Text: Societies
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/partners
+Text: Partners and advertisers
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/brands/springer
+Text: Springer
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.nature.com/
+Text: Nature Portfolio
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/brands/bmc
+Text: BMC
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/brands/palgrave
+Text: Palgrave Macmillan
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/brands/apress
+Text: Apress
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/brands/discover
+Text: Discover
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://www.springernature.com/gp/legal/ccpa
+Text: Your US state privacy rights
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/accessibility
+Text: Accessibility statement
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/termsandconditions
+Text: Terms and conditions
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/privacystatement
+Text: Privacy policy
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://support.springernature.com/en/support/home
+Text: Help and support
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://link.springer.com/legal-notice
+Text: Legal notice
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
+URL: https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations
+Text: Cancel contracts here
+--------------------------------------------------
+Source: downloaded-pages/link_springer_com_article_10_1007_s11042-022-14290-0/s11042-022-14290-0.html
 URL: https://www.springernature.com/
 Text: 
 --------------------------------------------------
