@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -21,9 +24,9 @@ jobs:
       
       - name: Install Python dependencies
         run: |
-          pip install beautifulsoup4 requests urllib3 selenium webdriver-manager
+          pip install beautifulsoup4 requests urllib3
           sudo apt-get update
-          sudo apt-get install -y wget curl unzip
+          sudo apt-get install -y wget curl
       
       # Step 5: Download web pages with proper browser headers
       - name: Download web pages with all assets
@@ -79,7 +82,7 @@ jobs:
               "$url" 2>&1 | tee -a wget-log.txt
             
             # Check if download was successful
-            if [ -f "downloaded-pages/$folder_name/index.html" ] || [ -f "downloaded-pages/$folder_name/*.html" ]; then
+            if ls downloaded-pages/$folder_name/*.html 2>/dev/null | head -1; then
               echo "✅ Successfully downloaded: $url"
             else
               echo "⚠️ Wget may have failed, trying with curl as fallback..."
@@ -110,7 +113,7 @@ jobs:
           # List what we actually downloaded
           echo ""
           echo "Downloaded files:"
-          find downloaded-pages/ -type f -name "*.html" | head -20
+          find downloaded-pages/ -type f -name "*.html" 2>/dev/null | head -20 || echo "No HTML files found"
       
       # Step 6: Enhanced Python extraction with better link detection
       - name: Extract article links with Python
@@ -137,14 +140,17 @@ jobs:
           print("🔍 Scanning downloaded pages for links...")
           print("-" * 50)
           
-          html_files = list(pages_dir.rglob('*.html'))
+          html_files = list(pages_dir.rglob('*.html')) if pages_dir.exists() else []
           print(f"Found {len(html_files)} HTML files to analyze")
           
           if len(html_files) == 0:
               print("⚠️ WARNING: No HTML files found! Checking directory contents...")
-              print("Contents of downloaded-pages:")
-              for item in pages_dir.rglob('*'):
-                  print(f"  - {item}")
+              if pages_dir.exists():
+                  print("Contents of downloaded-pages:")
+                  for item in pages_dir.rglob('*'):
+                      print(f"  - {item}")
+              else:
+                  print("downloaded-pages folder does not exist!")
           
           for html_file in html_files:
               print(f"📄 Analyzing: {html_file}")
@@ -203,7 +209,7 @@ jobs:
                                       print(f"  📰 Found: {href[:80]}...")
                           
                           # Check for download patterns
-                          if any(ext in href.lower() for ext in ['.zip', '.rar', '.doc', '.docx', '.epub', '.mobi', '.pdf']):
+                          if any(ext in href.lower() for ext in ['.zip', '.rar', '.doc', '.docx', '.epub', '.mobi']):
                               if link_info not in download_links:
                                   download_links.append(link_info)
                       
@@ -300,20 +306,32 @@ jobs:
       # Step 7: Commit and save everything
       - name: Commit and push all files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Configure git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          # Add all files (only if they exist)
+          if [ -d "downloaded-pages" ]; then
+            git add downloaded-pages/
+            echo "Added downloaded-pages/"
+          fi
           
-          git add downloaded-pages/
-          git add extracted-links/
-          git add pdfs/
+          if [ -d "extracted-links" ]; then
+            git add extracted-links/
+            echo "Added extracted-links/"
+          fi
           
-          if git diff --staged --quiet; then
+          # Check if there are changes to commit
+          if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Downloaded pages and extracted links on $(date)"
-            git push
+            echo "Changes detected, committing..."
+            git commit -m "Downloaded pages and extracted links on $(date -u)"
+            
+            # Push with token authentication
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main || \
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:master
+            
             echo "✅ Changes pushed successfully!"
           fi
       
@@ -325,7 +343,11 @@ jobs:
           echo "========================================="
           echo ""
           echo "📊 RESULTS:"
-          echo "   Check extracted-links/SUMMARY.txt for details"
+          if [ -f "extracted-links/SUMMARY.txt" ]; then
+            cat extracted-links/SUMMARY.txt
+          else
+            echo "No summary file generated"
+          fi
           echo ""
           echo "📁 FOLDERS CREATED:"
           echo "   • downloaded-pages/ - Downloaded HTML files"
